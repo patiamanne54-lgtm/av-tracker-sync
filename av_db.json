@@ -326,7 +326,7 @@
       },
       {
         "id": 17,
-        "status": "Active",
+        "status": "Decommissioned",
         "building": "MNL02",
         "room_num": "27.01",
         "room_name": "Cebu",
@@ -341,11 +341,12 @@
         "sticker": "Equ# Sticker has been printed and affixed",
         "mrc_status": "No Change Needed",
         "isp_status": "Updated",
-        "comment": ""
+        "comment": "",
+        "decom_approved": true
       },
       {
         "id": 18,
-        "status": "Active",
+        "status": "Decommissioned",
         "building": "MNL02",
         "room_num": "27.01",
         "room_name": "Cebu",
@@ -360,11 +361,12 @@
         "sticker": "Equ# Sticker has been printed and affixed",
         "mrc_status": "No Change Needed",
         "isp_status": "Updated",
-        "comment": ""
+        "comment": "",
+        "decom_approved": true
       },
       {
         "id": 19,
-        "status": "Active",
+        "status": "Decommissioned",
         "building": "MNL02",
         "room_num": "27.01",
         "room_name": "Cebu",
@@ -379,7 +381,8 @@
         "sticker": "Equ# Sticker has been printed and affixed",
         "mrc_status": "No Change Needed",
         "isp_status": "Updated",
-        "comment": ""
+        "comment": "",
+        "decom_approved": true
       },
       {
         "id": 20,
@@ -727,7 +730,7 @@
     "MNL85": [
       {
         "id": 68,
-        "status": "Active",
+        "status": "Decommissioned",
         "building": "MNL85",
         "room_num": "19.R01",
         "room_name": "MR MNL85 19.02A - Sinulog",
@@ -744,7 +747,8 @@
         "sticker": "",
         "mrc_status": "",
         "isp_status": "",
-        "comment": ""
+        "comment": "",
+        "decom_approved": true
       },
       {
         "id": 69,
@@ -4956,7 +4960,7 @@
       },
       {
         "id": 39,
-        "status": "Active",
+        "status": "Decommissioned",
         "building": "MNL04",
         "room_num": "12.01A",
         "room_name": "MR MNL04 12.01A - Training",
@@ -4971,11 +4975,12 @@
         "sticker": "Equ# Sticker has been printed and affixed",
         "mrc_status": "No Change Needed",
         "isp_status": "Updated",
-        "comment": ""
+        "comment": "",
+        "decom_approved": true
       },
       {
         "id": 40,
-        "status": "Active",
+        "status": "Decommissioned",
         "building": "MNL04",
         "room_num": "12.01A",
         "room_name": "MR MNL04 12.01A - Training",
@@ -4990,7 +4995,8 @@
         "sticker": "Equ# Sticker has been printed and affixed",
         "mrc_status": "No Change Needed",
         "isp_status": "Updated",
-        "comment": ""
+        "comment": "",
+        "decom_approved": true
       },
       {
         "id": 41,
