@@ -29,11 +29,45 @@
         "serial": "v c",
         "equip_num": "cv",
         "isp_abc": "c"
+      },
+      {
+        "id": 2,
+        "status": "Active",
+        "building": "MNL85",
+        "room_num": "”axa”",
+        "room_name": "vc vc",
+        "space_type": "vc",
+        "device_type": "”xax”",
+        "description": "qewrer",
+        "model": "",
+        "serial": "",
+        "equip_num": "",
+        "isp_abc": ""
       }
     ],
     "MNL04": []
   },
   "activity": [
+    {
+      "ts": "2026-05-22T05:51:29.033Z",
+      "action": "Add",
+      "detail": "MNL85 · ”axa” · qewrer",
+      "data": {
+        "id": 2,
+        "status": "Active",
+        "building": "MNL85",
+        "room_num": "”axa”",
+        "room_name": "vc vc",
+        "space_type": "vc",
+        "device_type": "”xax”",
+        "description": "qewrer",
+        "model": "",
+        "serial": "",
+        "equip_num": "",
+        "isp_abc": ""
+      },
+      "username": "c5321039"
+    },
     {
       "ts": "2026-05-22T05:48:04.695Z",
       "action": "Add",
