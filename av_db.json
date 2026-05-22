@@ -56,12 +56,27 @@
         "model": "ZDV",
         "serial": "ZDV",
         "equip_num": "ZDV",
-        "isp_abc": "Z"
+        "isp_abc": "Z",
+        "decom_approved": true
       }
     ],
     "MNL04": []
   },
   "activity": [
+    {
+      "ts": "2026-05-22T05:54:32.931Z",
+      "action": "Approve",
+      "detail": "MNL85 · XZVZ · ZDV",
+      "data": null,
+      "username": "Admin"
+    },
+    {
+      "ts": "2026-05-22T05:54:14.828Z",
+      "action": "Decommission",
+      "detail": "MNL85 · XZVZ · ZDV",
+      "data": null,
+      "username": "C5364095"
+    },
     {
       "ts": "2026-05-22T05:53:41.764Z",
       "action": "Add",
