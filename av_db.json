@@ -3230,6 +3230,20 @@
         "equip_num": "",
         "isp_abc": "",
         "room_only": true
+      },
+      {
+        "id": 121,
+        "status": "Active",
+        "building": "MNL85",
+        "room_num": "123",
+        "room_name": "123",
+        "space_type": "",
+        "device_type": "123",
+        "description": "123",
+        "model": "",
+        "serial": "",
+        "equip_num": "",
+        "isp_abc": ""
       }
     ],
     "MNL04": [
@@ -4531,6 +4545,26 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-05-22T14:10:03.154Z",
+      "action": "Add",
+      "detail": "MNL85 · 123 · 123",
+      "data": {
+        "id": 121,
+        "status": "Active",
+        "building": "MNL85",
+        "room_num": "123",
+        "room_name": "123",
+        "space_type": "",
+        "device_type": "123",
+        "description": "123",
+        "model": "",
+        "serial": "",
+        "equip_num": "",
+        "isp_abc": ""
+      },
+      "username": "c5388205"
+    },
     {
       "ts": "2026-05-22T14:08:13.180Z",
       "action": "Add",
