@@ -3233,7 +3233,7 @@
       },
       {
         "id": 121,
-        "status": "Active",
+        "status": "Decommissioned",
         "building": "MNL85",
         "room_num": "123",
         "room_name": "123",
@@ -4545,6 +4545,13 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-05-22T14:10:17.498Z",
+      "action": "Decommission",
+      "detail": "MNL85 · 123 · 123",
+      "data": null,
+      "username": "C5388205"
+    },
     {
       "ts": "2026-05-22T14:10:03.154Z",
       "action": "Add",
