@@ -15,11 +15,45 @@
         "serial": "",
         "equip_num": "",
         "isp_abc": ""
+      },
+      {
+        "id": 1,
+        "status": "Active",
+        "building": "MNL85",
+        "room_num": "”axa”",
+        "room_name": "vc vc",
+        "space_type": "vc",
+        "device_type": "cv",
+        "description": "cv",
+        "model": "cv",
+        "serial": "v c",
+        "equip_num": "cv",
+        "isp_abc": "c"
       }
     ],
     "MNL04": []
   },
   "activity": [
+    {
+      "ts": "2026-05-22T05:48:04.695Z",
+      "action": "Add",
+      "detail": "MNL85 · ”axa” · cv",
+      "data": {
+        "id": 1,
+        "status": "Active",
+        "building": "MNL85",
+        "room_num": "”axa”",
+        "room_name": "vc vc",
+        "space_type": "vc",
+        "device_type": "cv",
+        "description": "cv",
+        "model": "cv",
+        "serial": "v c",
+        "equip_num": "cv",
+        "isp_abc": "c"
+      },
+      "username": "C5364095"
+    },
     {
       "ts": "2026-05-21T14:34:42.282Z",
       "action": "Add",
