@@ -729,34 +729,6 @@
     ],
     "MNL85": [
       {
-        "id": 1,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "”axa”",
-        "room_name": "vc vc",
-        "space_type": "vc",
-        "device_type": "cv",
-        "description": "cv",
-        "model": "cv",
-        "serial": "v c",
-        "equip_num": "cv",
-        "isp_abc": "c"
-      },
-      {
-        "id": 2,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "”axa”",
-        "room_name": "vc vc",
-        "space_type": "vc",
-        "device_type": "”xax”",
-        "description": "qewrer",
-        "model": "",
-        "serial": "",
-        "equip_num": "",
-        "isp_abc": ""
-      },
-      {
         "id": 3,
         "status": "Active",
         "building": "MNL85",
