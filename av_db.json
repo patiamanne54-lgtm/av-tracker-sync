@@ -4492,6 +4492,17 @@
   },
   "activity": [
     {
+      "ts": "2026-05-25T12:15:38.715Z",
+      "action": "Edit",
+      "detail": "MNL85 · Room 123 renamed to 123",
+      "data": {
+        "room_num": "123",
+        "room_name": "123SS",
+        "building": "MNL85"
+      },
+      "username": ""
+    },
+    {
       "ts": "2026-05-25T12:04:53.902Z",
       "action": "Approve",
       "detail": "MNL85 · 19.R01 · EPSON EB-1460Ui Projector",
