@@ -4441,7 +4441,7 @@
       },
       {
         "id": 67,
-        "status": "Active",
+        "status": "Decommissioned",
         "building": "MNL04",
         "room_num": "12.372",
         "room_name": "IT Storage Room",
@@ -4461,6 +4461,13 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-05-25T12:16:43.855Z",
+      "action": "Decommission",
+      "detail": "MNL04 · 12.372 · Samsung QB55N TV",
+      "data": null,
+      "username": "C5364095"
+    },
     {
       "ts": "2026-05-25T12:16:31.902Z",
       "action": "Decommission",
