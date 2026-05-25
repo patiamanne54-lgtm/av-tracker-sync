@@ -3163,7 +3163,7 @@
       },
       {
         "id": 123,
-        "status": "Active",
+        "status": "Decommissioned",
         "building": "MNL85",
         "room_num": "19.R01",
         "room_name": "MR MNL85 19.02A - Sinulog",
@@ -3173,7 +3173,8 @@
         "model": "S",
         "serial": "S",
         "equip_num": "S",
-        "isp_abc": "S"
+        "isp_abc": "S",
+        "decom_approved": true
       },
       {
         "id": 124,
@@ -4492,6 +4493,13 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-05-25T12:47:10.015Z",
+      "action": "Approve",
+      "detail": "MNL85 · 19.R01 · S",
+      "data": null,
+      "username": "Admin"
+    },
     {
       "ts": "2026-05-25T12:46:51.968Z",
       "action": "Decommission",
