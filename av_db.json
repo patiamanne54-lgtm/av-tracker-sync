@@ -3174,6 +3174,20 @@
         "serial": "S",
         "equip_num": "S",
         "isp_abc": "S"
+      },
+      {
+        "id": 124,
+        "status": "Active",
+        "building": "MNL85",
+        "room_num": "7.R05",
+        "room_name": "MR MNL85 7R05 - Arayat",
+        "space_type": "",
+        "device_type": "S",
+        "description": "S",
+        "model": "S",
+        "serial": "S",
+        "equip_num": "S",
+        "isp_abc": "S"
       }
     ],
     "MNL04": [
@@ -4478,6 +4492,26 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-05-25T12:46:21.567Z",
+      "action": "Add",
+      "detail": "MNL85 · 7.R05 · S",
+      "data": {
+        "id": 124,
+        "status": "Active",
+        "building": "MNL85",
+        "room_num": "7.R05",
+        "room_name": "MR MNL85 7R05 - Arayat",
+        "space_type": "",
+        "device_type": "S",
+        "description": "S",
+        "model": "S",
+        "serial": "S",
+        "equip_num": "S",
+        "isp_abc": "S"
+      },
+      "username": "C5364095"
+    },
     {
       "ts": "2026-05-25T12:46:00.303Z",
       "action": "Add",
