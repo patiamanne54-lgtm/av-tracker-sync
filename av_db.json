@@ -3177,7 +3177,7 @@
       },
       {
         "id": 124,
-        "status": "Active",
+        "status": "Decommissioned",
         "building": "MNL85",
         "room_num": "7.R05",
         "room_name": "MR MNL85 7R05 - Arayat",
@@ -4492,6 +4492,13 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-05-25T12:46:51.968Z",
+      "action": "Decommission",
+      "detail": "MNL85 · 7.R05 · S",
+      "data": null,
+      "username": "C5364095"
+    },
     {
       "ts": "2026-05-25T12:46:21.567Z",
       "action": "Add",
