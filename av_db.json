@@ -3147,36 +3147,6 @@
         "comment": ""
       },
       {
-        "id": 120,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "123",
-        "room_name": "123",
-        "space_type": "",
-        "device_type": "",
-        "description": "",
-        "model": "",
-        "serial": "",
-        "equip_num": "",
-        "isp_abc": "",
-        "room_only": true
-      },
-      {
-        "id": 121,
-        "status": "Decommissioned",
-        "building": "MNL85",
-        "room_num": "123",
-        "room_name": "123",
-        "space_type": "",
-        "device_type": "123",
-        "description": "123",
-        "model": "",
-        "serial": "",
-        "equip_num": "",
-        "isp_abc": "",
-        "decom_approved": true
-      },
-      {
         "id": 122,
         "status": "Active",
         "building": "MNL85",
