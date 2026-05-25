@@ -3148,7 +3148,7 @@
       },
       {
         "id": 122,
-        "status": "Active",
+        "status": "Decommissioned",
         "building": "MNL85",
         "room_num": "XZVZ",
         "room_name": "ZDV",
@@ -4458,11 +4458,26 @@
         "sticker": "Equ# Sticker has been printed and affixed",
         "mrc_status": "No Change Needed",
         "isp_status": "Updated",
-        "comment": "This TV will be kept for support purposes(In storage)"
+        "comment": "This TV will be kept for support purposes(In storage)",
+        "decom_approved": true
       }
     ]
   },
   "activity": [
+    {
+      "ts": "2026-05-25T12:45:19.839Z",
+      "action": "Decommission",
+      "detail": "MNL85 · XZVZ · ZDV",
+      "data": null,
+      "username": "C5364095"
+    },
+    {
+      "ts": "2026-05-25T12:17:01.879Z",
+      "action": "Approve",
+      "detail": "MNL04 · 12.372 · Samsung QB55N TV",
+      "data": null,
+      "username": "Admin"
+    },
     {
       "ts": "2026-05-25T12:17:01.335Z",
       "action": "Approve",
