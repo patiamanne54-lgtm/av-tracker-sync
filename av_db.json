@@ -3996,7 +3996,7 @@
       },
       {
         "id": 42,
-        "status": "Decommissioned",
+        "status": "Active",
         "building": "MNL04",
         "room_num": "12.01A",
         "room_name": "MR MNL04 12.01A - Training",
@@ -4494,6 +4494,13 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-05-25T13:42:31.821Z",
+      "action": "Decline",
+      "detail": "MNL04 · 12.01A · Biamp TesiraFORTÉ CI",
+      "data": null,
+      "username": "Admin"
+    },
     {
       "ts": "2026-05-25T13:41:55.608Z",
       "action": "Decommission",
