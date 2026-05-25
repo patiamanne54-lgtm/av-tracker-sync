@@ -826,7 +826,8 @@
         "sticker": "",
         "mrc_status": "",
         "isp_status": "",
-        "comment": ""
+        "comment": "",
+        "decom_approved": true
       },
       {
         "id": 6,
@@ -4546,6 +4547,13 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-05-25T06:18:47.448Z",
+      "action": "Approve",
+      "detail": "MNL85 · 19.R01 · Wolfvision Cynap Pure",
+      "data": null,
+      "username": "Admin"
+    },
     {
       "ts": "2026-05-25T06:17:09.121Z",
       "action": "Approve",
