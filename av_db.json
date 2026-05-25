@@ -3160,6 +3160,20 @@
         "equip_num": "ZDV",
         "isp_abc": "Z",
         "decom_approved": true
+      },
+      {
+        "id": 123,
+        "status": "Active",
+        "building": "MNL85",
+        "room_num": "19.R01",
+        "room_name": "MR MNL85 19.02A - Sinulog",
+        "space_type": "",
+        "device_type": "S",
+        "description": "S",
+        "model": "S",
+        "serial": "S",
+        "equip_num": "S",
+        "isp_abc": "S"
       }
     ],
     "MNL04": [
@@ -4464,6 +4478,26 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-05-25T12:46:00.303Z",
+      "action": "Add",
+      "detail": "MNL85 · 19.R01 · S",
+      "data": {
+        "id": 123,
+        "status": "Active",
+        "building": "MNL85",
+        "room_num": "19.R01",
+        "room_name": "MR MNL85 19.02A - Sinulog",
+        "space_type": "",
+        "device_type": "S",
+        "description": "S",
+        "model": "S",
+        "serial": "S",
+        "equip_num": "S",
+        "isp_abc": "S"
+      },
+      "username": "C5364095"
+    },
     {
       "ts": "2026-05-25T12:45:19.839Z",
       "action": "Decommission",
