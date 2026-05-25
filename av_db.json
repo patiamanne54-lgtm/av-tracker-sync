@@ -809,7 +809,7 @@
       },
       {
         "id": 5,
-        "status": "Active",
+        "status": "Decommissioned",
         "building": "MNL85",
         "room_num": "19.R01",
         "room_name": "MR MNL85 19.02A - Sinulog",
@@ -4546,6 +4546,13 @@
   },
   "activity": [
     {
+      "ts": "2026-05-25T06:12:41.681Z",
+      "action": "Decommission",
+      "detail": "MNL85 · 19.R01 · Wolfvision Cynap Pure",
+      "data": null,
+      "username": "C5364095"
+    },
+    {
       "ts": "2026-05-22T14:10:17.498Z",
       "action": "Decommission",
       "detail": "MNL85 · 123 · 123",
@@ -4591,6 +4598,46 @@
         "room_name": "axa"
       },
       "username": "c5388205"
+    },
+    {
+      "ts": "2026-05-22T05:51:29.033Z",
+      "action": "Add",
+      "detail": "MNL85 · ”axa” · qewrer",
+      "data": {
+        "id": 2,
+        "status": "Active",
+        "building": "MNL85",
+        "room_num": "”axa”",
+        "room_name": "vc vc",
+        "space_type": "vc",
+        "device_type": "”xax”",
+        "description": "qewrer",
+        "model": "",
+        "serial": "",
+        "equip_num": "",
+        "isp_abc": ""
+      },
+      "username": "c5321039"
+    },
+    {
+      "ts": "2026-05-22T05:48:04.695Z",
+      "action": "Add",
+      "detail": "MNL85 · ”axa” · cv",
+      "data": {
+        "id": 1,
+        "status": "Active",
+        "building": "MNL85",
+        "room_num": "”axa”",
+        "room_name": "vc vc",
+        "space_type": "vc",
+        "device_type": "cv",
+        "description": "cv",
+        "model": "cv",
+        "serial": "v c",
+        "equip_num": "cv",
+        "isp_abc": "c"
+      },
+      "username": "C5364095"
     },
     {
       "ts": "2026-05-21T14:34:42.282Z",
