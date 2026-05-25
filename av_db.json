@@ -729,21 +729,6 @@
     ],
     "MNL85": [
       {
-        "id": 3,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "XZVZ",
-        "room_name": "ZDV",
-        "space_type": "DV",
-        "device_type": "ZDV",
-        "description": "ZDV",
-        "model": "ZDV",
-        "serial": "ZDV",
-        "equip_num": "ZDV",
-        "isp_abc": "Z",
-        "decom_approved": true
-      },
-      {
         "id": 4,
         "status": "Decommissioned",
         "building": "MNL85",
@@ -3188,6 +3173,21 @@
         "serial": "",
         "equip_num": "",
         "isp_abc": "",
+        "decom_approved": true
+      },
+      {
+        "id": 122,
+        "status": "Active",
+        "building": "MNL85",
+        "room_num": "XZVZ",
+        "room_name": "ZDV",
+        "space_type": "DV",
+        "device_type": "ZDV",
+        "description": "ZDV",
+        "model": "ZDV",
+        "serial": "ZDV",
+        "equip_num": "ZDV",
+        "isp_abc": "Z",
         "decom_approved": true
       }
     ],
