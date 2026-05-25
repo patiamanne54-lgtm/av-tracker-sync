@@ -833,7 +833,8 @@
         "sticker": "",
         "mrc_status": "",
         "isp_status": "",
-        "comment": ""
+        "comment": "",
+        "decom_approved": true
       },
       {
         "id": 9,
@@ -4490,6 +4491,13 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-05-25T12:04:53.902Z",
+      "action": "Approve",
+      "detail": "MNL85 · 19.R01 · EPSON EB-1460Ui Projector",
+      "data": null,
+      "username": "Admin"
+    },
     {
       "ts": "2026-05-25T12:04:36.045Z",
       "action": "Decommission",
