@@ -729,20 +729,6 @@
     ],
     "MNL85": [
       {
-        "id": 0,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "axa",
-        "room_name": "",
-        "space_type": "",
-        "device_type": "xax",
-        "description": "ax",
-        "model": "",
-        "serial": "",
-        "equip_num": "",
-        "isp_abc": ""
-      },
-      {
         "id": 1,
         "status": "Active",
         "building": "MNL85",
@@ -3201,21 +3187,6 @@
         "mrc_status": "",
         "isp_status": "",
         "comment": ""
-      },
-      {
-        "id": 119,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "axa",
-        "room_name": "axa",
-        "space_type": "",
-        "device_type": "",
-        "description": "",
-        "model": "",
-        "serial": "",
-        "equip_num": "",
-        "isp_abc": "",
-        "room_only": true
       },
       {
         "id": 120,
