@@ -3631,7 +3631,7 @@
       },
       {
         "id": 23,
-        "status": "Decommissioned",
+        "status": "Active",
         "building": "MNL04",
         "room_num": "14.01",
         "room_name": "MR MNL04 14.01 - Meeting Room",
@@ -4490,6 +4490,13 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-05-25T12:00:40.743Z",
+      "action": "Decline",
+      "detail": "MNL04 · 14.01 · Crestron MPC-M5-B-T",
+      "data": null,
+      "username": "Admin"
+    },
     {
       "ts": "2026-05-25T11:59:41.840Z",
       "action": "Decommission",
