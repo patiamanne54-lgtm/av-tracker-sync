@@ -2661,7 +2661,8 @@
         "sticker": "",
         "mrc_status": "",
         "isp_status": "",
-        "comment": ""
+        "comment": "",
+        "decom_approved": true
       },
       {
         "id": 96,
@@ -4508,6 +4509,13 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-05-26T12:06:58.135Z",
+      "action": "Approve",
+      "detail": "MNL85 · 20.MNL-SR · Lenovo Thinksmart Hub",
+      "data": null,
+      "username": "Admin"
+    },
     {
       "ts": "2026-05-26T12:06:39.670Z",
       "action": "Decommission",
