@@ -774,7 +774,7 @@
       },
       {
         "id": 6,
-        "status": "Active",
+        "status": "Decommissioned",
         "building": "MNL85",
         "room_num": "19.R01",
         "room_name": "MR MNL85 19.02A - Sinulog",
@@ -4508,6 +4508,13 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-05-26T12:05:21.327Z",
+      "action": "Decommission",
+      "detail": "MNL85 · 19.R01 · Crestron MPC-M5-B-T",
+      "data": null,
+      "username": "C5364095"
+    },
     {
       "ts": "2026-05-26T08:21:27.210Z",
       "action": "Add",
