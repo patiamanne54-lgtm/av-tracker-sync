@@ -2644,7 +2644,7 @@
       },
       {
         "id": 95,
-        "status": "Active",
+        "status": "Decommissioned",
         "building": "MNL85",
         "room_num": "20.MNL-SR",
         "room_name": "IT Storage Room",
@@ -4508,6 +4508,13 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-05-26T12:06:26.735Z",
+      "action": "Decommission",
+      "detail": "MNL85 · 20.MNL-SR · Lenovo Thinksmart Hub",
+      "data": null,
+      "username": "C5364095"
+    },
     {
       "ts": "2026-05-26T12:05:38.326Z",
       "action": "Decline",
