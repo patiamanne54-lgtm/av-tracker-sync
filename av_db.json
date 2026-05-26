@@ -2683,7 +2683,8 @@
         "sticker": "",
         "mrc_status": "",
         "isp_status": "",
-        "comment": ""
+        "comment": "",
+        "decom_approved": true
       },
       {
         "id": 97,
@@ -4509,6 +4510,13 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-05-26T12:06:58.879Z",
+      "action": "Approve",
+      "detail": "MNL85 · 20.MNL-SR · Polycom Pano Present",
+      "data": null,
+      "username": "Admin"
+    },
     {
       "ts": "2026-05-26T12:06:58.135Z",
       "action": "Approve",
