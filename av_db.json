@@ -5380,7 +5380,7 @@
       },
       {
         "id": 60,
-        "status": "Active",
+        "status": "Decommissioned",
         "building": "MNL04",
         "room_num": "12.1",
         "room_name": "12F - Reception",
@@ -5475,7 +5475,7 @@
       },
       {
         "id": 65,
-        "status": "Decommissioned",
+        "status": "Active",
         "building": "MNL04",
         "room_num": "12.372",
         "room_name": "IT Storage Room",
@@ -5535,6 +5535,13 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-05-26T12:25:06.361Z",
+      "action": "Decommission",
+      "detail": "MNL04 · 12.1 · LG 55UH5N-EP TV",
+      "data": null,
+      "username": "C5342201"
+    },
     {
       "ts": "2026-05-26T12:24:27.014Z",
       "action": "Decommission",
