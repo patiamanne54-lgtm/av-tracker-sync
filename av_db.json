@@ -386,7 +386,7 @@
       },
       {
         "id": 20,
-        "status": "Active",
+        "status": "Decommissioned",
         "building": "MNL02",
         "room_num": "27.01",
         "room_name": "Cebu",
@@ -729,7 +729,7 @@
     ],
     "MNL85": [
       {
-        "id": 68,
+        "id": 4,
         "status": "Decommissioned",
         "building": "MNL85",
         "room_num": "19.R01",
@@ -751,7 +751,7 @@
         "decom_approved": true
       },
       {
-        "id": 69,
+        "id": 5,
         "status": "Decommissioned",
         "building": "MNL85",
         "room_num": "19.R01",
@@ -773,7 +773,7 @@
         "decom_approved": true
       },
       {
-        "id": 70,
+        "id": 6,
         "status": "Active",
         "building": "MNL85",
         "room_num": "19.R01",
@@ -794,7 +794,7 @@
         "comment": ""
       },
       {
-        "id": 71,
+        "id": 7,
         "status": "Active",
         "building": "MNL85",
         "room_num": "9.R10",
@@ -815,7 +815,7 @@
         "comment": ""
       },
       {
-        "id": 72,
+        "id": 8,
         "status": "Decommissioned",
         "building": "MNL85",
         "room_num": "19.R01",
@@ -837,7 +837,7 @@
         "decom_approved": true
       },
       {
-        "id": 73,
+        "id": 9,
         "status": "Active",
         "building": "MNL85",
         "room_num": "19.R02",
@@ -858,7 +858,7 @@
         "comment": ""
       },
       {
-        "id": 74,
+        "id": 10,
         "status": "Active",
         "building": "MNL85",
         "room_num": "19.R02",
@@ -879,7 +879,7 @@
         "comment": ""
       },
       {
-        "id": 75,
+        "id": 11,
         "status": "Active",
         "building": "MNL85",
         "room_num": "19.R02",
@@ -900,7 +900,7 @@
         "comment": ""
       },
       {
-        "id": 76,
+        "id": 12,
         "status": "Active",
         "building": "MNL85",
         "room_num": "19.R02",
@@ -921,28 +921,7 @@
         "comment": ""
       },
       {
-        "id": 77,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "19.R02",
-        "room_name": "MR MNL85 19.02B - Dinagyang",
-        "space_type": "Meeting Room",
-        "device_type": "Conferencing Device - USB Conferencing Speaker",
-        "description": "Poly Sync40 USB Speakers",
-        "manufacturer": "Poly",
-        "model": "Sync40",
-        "serial": "EE59H8",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 78,
+        "id": 13,
         "status": "Active",
         "building": "MNL85",
         "room_num": "19.R03",
@@ -963,7 +942,7 @@
         "comment": ""
       },
       {
-        "id": 79,
+        "id": 14,
         "status": "Active",
         "building": "MNL85",
         "room_num": "19.R03",
@@ -984,7 +963,7 @@
         "comment": ""
       },
       {
-        "id": 80,
+        "id": 15,
         "status": "Active",
         "building": "MNL85",
         "room_num": "19.R03",
@@ -1005,28 +984,7 @@
         "comment": ""
       },
       {
-        "id": 81,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "19.R03",
-        "room_name": "MR MNL85 19.03",
-        "space_type": "Meeting Room",
-        "device_type": "Conferencing Device - USB Conferencing Speaker",
-        "description": "Poly Sync40 USB Speakers",
-        "manufacturer": "Poly",
-        "model": "Sync 40",
-        "serial": "EE54FB",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 82,
+        "id": 16,
         "status": "Active",
         "building": "MNL85",
         "room_num": "19.R09",
@@ -1047,7 +1005,7 @@
         "comment": ""
       },
       {
-        "id": 83,
+        "id": 17,
         "status": "Active",
         "building": "MNL85",
         "room_num": "19.R09",
@@ -1068,7 +1026,7 @@
         "comment": ""
       },
       {
-        "id": 84,
+        "id": 18,
         "status": "Active",
         "building": "MNL85",
         "room_num": "19.R09",
@@ -1089,28 +1047,7 @@
         "comment": ""
       },
       {
-        "id": 85,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "19.R09",
-        "room_name": "MR MNL85 19.01- Maagnaw",
-        "space_type": "Meeting Room",
-        "device_type": "Conferencing Device - USB Conferencing Speaker",
-        "description": "Poly Sync40 USB Speakers",
-        "manufacturer": "Poly",
-        "model": "Sync 40",
-        "serial": "EE54EP",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 86,
+        "id": 19,
         "status": "Active",
         "building": "MNL85",
         "room_num": "7.R01",
@@ -1131,7 +1068,7 @@
         "comment": ""
       },
       {
-        "id": 87,
+        "id": 20,
         "status": "Active",
         "building": "MNL85",
         "room_num": "7.R01",
@@ -1152,28 +1089,7 @@
         "comment": ""
       },
       {
-        "id": 88,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "7.R01",
-        "room_name": "MR MNL85 7R01 - Mayon",
-        "space_type": "Meeting Room",
-        "device_type": "Conferencing Device - USB Conferencing Video Bar",
-        "description": "Neat Bar Pro",
-        "manufacturer": "NEAT",
-        "model": "Neat Bar",
-        "serial": "ND12225001677",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 89,
+        "id": 21,
         "status": "Active",
         "building": "MNL85",
         "room_num": "7.R01",
@@ -1194,7 +1110,7 @@
         "comment": ""
       },
       {
-        "id": 90,
+        "id": 22,
         "status": "Active",
         "building": "MNL85",
         "room_num": "7.R01",
@@ -1215,7 +1131,7 @@
         "comment": ""
       },
       {
-        "id": 91,
+        "id": 23,
         "status": "Active",
         "building": "MNL85",
         "room_num": "7.R02",
@@ -1236,7 +1152,7 @@
         "comment": ""
       },
       {
-        "id": 92,
+        "id": 24,
         "status": "Active",
         "building": "MNL85",
         "room_num": "7.R02",
@@ -1257,28 +1173,7 @@
         "comment": ""
       },
       {
-        "id": 93,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "7.R02",
-        "room_name": "MR MNL85 7R02 - Pahiyas",
-        "space_type": "Meeting Room",
-        "device_type": "AV Component - Amplifier",
-        "description": "Crestron AMP-1200-70- Ampiflier",
-        "manufacturer": "Crestron",
-        "model": "AMP-1200-70",
-        "serial": "1803NEJ05897",
-        "equip_num": "34719340",
-        "isp_abc": "M",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 94,
+        "id": 25,
         "status": "Active",
         "building": "MNL85",
         "room_num": "7.R02",
@@ -1299,28 +1194,7 @@
         "comment": ""
       },
       {
-        "id": 95,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "7.R02",
-        "room_name": "MR MNL85 7R02 - Pahiyas",
-        "space_type": "Meeting Room",
-        "device_type": "AV Component - DSP",
-        "description": "Crestron DMPS3-4K-350-C AV Presentation System",
-        "manufacturer": "Crestron",
-        "model": "DMPS3-4K-350-C",
-        "serial": "1909JBH04435",
-        "equip_num": "34719341",
-        "isp_abc": "M",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 96,
+        "id": 26,
         "status": "Active",
         "building": "MNL85",
         "room_num": "7.R02",
@@ -1341,7 +1215,7 @@
         "comment": ""
       },
       {
-        "id": 97,
+        "id": 27,
         "status": "Active",
         "building": "MNL85",
         "room_num": "7.R02",
@@ -1362,7 +1236,7 @@
         "comment": ""
       },
       {
-        "id": 98,
+        "id": 28,
         "status": "Active",
         "building": "MNL85",
         "room_num": "7.R02",
@@ -1383,7 +1257,7 @@
         "comment": ""
       },
       {
-        "id": 99,
+        "id": 29,
         "status": "Active",
         "building": "MNL85",
         "room_num": "7.R02",
@@ -1404,7 +1278,7 @@
         "comment": ""
       },
       {
-        "id": 100,
+        "id": 30,
         "status": "Active",
         "building": "MNL85",
         "room_num": "7.R02",
@@ -1425,28 +1299,7 @@
         "comment": ""
       },
       {
-        "id": 101,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "7.R02",
-        "room_name": "MR MNL85 7R02 - Pahiyas",
-        "space_type": "Meeting Room",
-        "device_type": "Conferencing Device - USB Conferencing Speaker",
-        "description": "Poly Sync40 USB Speakers",
-        "manufacturer": "Poly",
-        "model": "Sync 40",
-        "serial": "EE5710",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 102,
+        "id": 31,
         "status": "Active",
         "building": "MNL85",
         "room_num": "7.R02",
@@ -1467,7 +1320,7 @@
         "comment": ""
       },
       {
-        "id": 103,
+        "id": 32,
         "status": "Active",
         "building": "MNL85",
         "room_num": "7.R03",
@@ -1488,7 +1341,7 @@
         "comment": ""
       },
       {
-        "id": 104,
+        "id": 33,
         "status": "Active",
         "building": "MNL85",
         "room_num": "7.R03",
@@ -1509,7 +1362,7 @@
         "comment": ""
       },
       {
-        "id": 105,
+        "id": 34,
         "status": "Active",
         "building": "MNL85",
         "room_num": "7.R03",
@@ -1530,7 +1383,7 @@
         "comment": ""
       },
       {
-        "id": 106,
+        "id": 35,
         "status": "Active",
         "building": "MNL85",
         "room_num": "7.R03",
@@ -1551,7 +1404,7 @@
         "comment": ""
       },
       {
-        "id": 107,
+        "id": 36,
         "status": "Active",
         "building": "MNL85",
         "room_num": "7.R03",
@@ -1572,70 +1425,7 @@
         "comment": ""
       },
       {
-        "id": 108,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "7.R03",
-        "room_name": "MR MNL85 7R03 - Panagbenga",
-        "space_type": "Meeting Room",
-        "device_type": "Conferencing Device - USB Conferencing Speaker",
-        "description": "Poly Sync40 USB Speakers",
-        "manufacturer": "Poly",
-        "model": "Sync 40",
-        "serial": "EE56YM",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 109,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "7.R05",
-        "room_name": "MR MNL85 7R05 - Arayat",
-        "space_type": "Meeting Room",
-        "device_type": "Conferencing Device - USB Conferencing Speaker",
-        "description": "Poly Sync40 USB Speakers",
-        "manufacturer": "Poly",
-        "model": "Sync 40",
-        "serial": "EE559P",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 110,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "7.R08",
-        "room_name": "MR MNL85 7R08 - Kanlaon",
-        "space_type": "Meeting Room",
-        "device_type": "Conferencing Device - USB Conferencing Speaker",
-        "description": "Poly Sync40 USB Speakers",
-        "manufacturer": "Poly",
-        "model": "Sync 40",
-        "serial": "EE3G4N",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 111,
+        "id": 37,
         "status": "Active",
         "building": "MNL85",
         "room_num": "7.R05",
@@ -1656,7 +1446,7 @@
         "comment": ""
       },
       {
-        "id": 112,
+        "id": 38,
         "status": "Active",
         "building": "MNL85",
         "room_num": "7.R05",
@@ -1677,7 +1467,7 @@
         "comment": ""
       },
       {
-        "id": 113,
+        "id": 39,
         "status": "Active",
         "building": "MNL85",
         "room_num": "7.R05",
@@ -1698,7 +1488,7 @@
         "comment": ""
       },
       {
-        "id": 114,
+        "id": 40,
         "status": "Active",
         "building": "MNL85",
         "room_num": "7.R06",
@@ -1719,7 +1509,7 @@
         "comment": ""
       },
       {
-        "id": 115,
+        "id": 41,
         "status": "Active",
         "building": "MNL85",
         "room_num": "7.R06",
@@ -1740,7 +1530,7 @@
         "comment": ""
       },
       {
-        "id": 116,
+        "id": 42,
         "status": "Active",
         "building": "MNL85",
         "room_num": "7.R06",
@@ -1761,28 +1551,7 @@
         "comment": ""
       },
       {
-        "id": 117,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "7.R06",
-        "room_name": "MR MNL85 7R06 - Tamaraw",
-        "space_type": "Meeting Room",
-        "device_type": "Conferencing Device - USB Conferencing Speaker",
-        "description": "Poly Sync40 USB Speakers",
-        "manufacturer": "Poly",
-        "model": "Sync 40",
-        "serial": "EE56XU",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 118,
+        "id": 43,
         "status": "Active",
         "building": "MNL85",
         "room_num": "7.R04",
@@ -1803,7 +1572,7 @@
         "comment": ""
       },
       {
-        "id": 119,
+        "id": 44,
         "status": "Active",
         "building": "MNL85",
         "room_num": "7.R04",
@@ -1824,7 +1593,7 @@
         "comment": ""
       },
       {
-        "id": 120,
+        "id": 45,
         "status": "Active",
         "building": "MNL85",
         "room_num": "7.R04",
@@ -1845,28 +1614,7 @@
         "comment": ""
       },
       {
-        "id": 121,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "7.R04",
-        "room_name": "MR MNL85 7R04 - Amuyao",
-        "space_type": "Meeting Room",
-        "device_type": "Conferencing Device - USB Conferencing Speaker",
-        "description": "Poly Sync40 USB Speakers",
-        "manufacturer": "Poly",
-        "model": "Sync 40",
-        "serial": "EE5716",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 122,
+        "id": 46,
         "status": "Active",
         "building": "MNL85",
         "room_num": "7.R08",
@@ -1887,7 +1635,7 @@
         "comment": ""
       },
       {
-        "id": 123,
+        "id": 47,
         "status": "Active",
         "building": "MNL85",
         "room_num": "7.R08",
@@ -1908,7 +1656,7 @@
         "comment": ""
       },
       {
-        "id": 124,
+        "id": 48,
         "status": "Active",
         "building": "MNL85",
         "room_num": "7.R08",
@@ -1929,7 +1677,7 @@
         "comment": ""
       },
       {
-        "id": 125,
+        "id": 49,
         "status": "Active",
         "building": "MNL85",
         "room_num": "9.R01",
@@ -1950,7 +1698,7 @@
         "comment": ""
       },
       {
-        "id": 126,
+        "id": 50,
         "status": "Active",
         "building": "MNL85",
         "room_num": "9.R01",
@@ -1971,7 +1719,7 @@
         "comment": ""
       },
       {
-        "id": 127,
+        "id": 51,
         "status": "Active",
         "building": "MNL85",
         "room_num": "9.R01",
@@ -1992,28 +1740,7 @@
         "comment": ""
       },
       {
-        "id": 128,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "9.R01",
-        "room_name": "MR MNL85 9.02 - Pinatubo",
-        "space_type": "Meeting Room",
-        "device_type": "Conferencing Device - USB Conferencing Speaker",
-        "description": "Poly Sync40 USB Speakers",
-        "manufacturer": "Poly",
-        "model": "Sync40",
-        "serial": "EE6C75",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 129,
+        "id": 52,
         "status": "Active",
         "building": "MNL85",
         "room_num": "9.R02",
@@ -2034,7 +1761,7 @@
         "comment": ""
       },
       {
-        "id": 130,
+        "id": 53,
         "status": "Active",
         "building": "MNL85",
         "room_num": "9.R02",
@@ -2055,7 +1782,7 @@
         "comment": ""
       },
       {
-        "id": 131,
+        "id": 54,
         "status": "Active",
         "building": "MNL85",
         "room_num": "9.R02",
@@ -2076,28 +1803,7 @@
         "comment": ""
       },
       {
-        "id": 132,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "9.R02",
-        "room_name": "MR MNL85 9.03 - Pulag",
-        "space_type": "Meeting Room",
-        "device_type": "Conferencing Device - USB Conferencing Speaker",
-        "description": "Poly Sync40 USB Speakers",
-        "manufacturer": "Poly",
-        "model": "Sync40",
-        "serial": "EE6AJN",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 133,
+        "id": 55,
         "status": "Active",
         "building": "MNL85",
         "room_num": "9.R03",
@@ -2118,7 +1824,7 @@
         "comment": ""
       },
       {
-        "id": 134,
+        "id": 56,
         "status": "Active",
         "building": "MNL85",
         "room_num": "9.R03",
@@ -2139,7 +1845,7 @@
         "comment": ""
       },
       {
-        "id": 135,
+        "id": 57,
         "status": "Active",
         "building": "MNL85",
         "room_num": "9.R03",
@@ -2160,28 +1866,7 @@
         "comment": ""
       },
       {
-        "id": 136,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "9.R03",
-        "room_name": "MR MNL85 9.04 - Sierra Madre",
-        "space_type": "Meeting Room",
-        "device_type": "Conferencing Device - USB Conferencing Speaker",
-        "description": "Poly Sync40 USB Speakers",
-        "manufacturer": "Poly",
-        "model": "Sync 40",
-        "serial": "EE59R6",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 137,
+        "id": 58,
         "status": "Active",
         "building": "MNL85",
         "room_num": "9.R04",
@@ -2202,7 +1887,7 @@
         "comment": ""
       },
       {
-        "id": 138,
+        "id": 59,
         "status": "Active",
         "building": "MNL85",
         "room_num": "9.R04",
@@ -2223,7 +1908,7 @@
         "comment": ""
       },
       {
-        "id": 139,
+        "id": 60,
         "status": "Active",
         "building": "MNL85",
         "room_num": "9.R04",
@@ -2244,28 +1929,7 @@
         "comment": ""
       },
       {
-        "id": 140,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "9.R04",
-        "room_name": "MR MNL85 9.05 - Talomo",
-        "space_type": "Meeting Room",
-        "device_type": "Conferencing Device - USB Conferencing Speaker",
-        "description": "Poly Sync40 USB Speakers",
-        "manufacturer": "Poly",
-        "model": "Sync40",
-        "serial": "EE6B3G",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 141,
+        "id": 61,
         "status": "Active",
         "building": "MNL85",
         "room_num": "20.02",
@@ -2286,7 +1950,7 @@
         "comment": ""
       },
       {
-        "id": 142,
+        "id": 62,
         "status": "Active",
         "building": "MNL85",
         "room_num": "20.02",
@@ -2307,7 +1971,7 @@
         "comment": ""
       },
       {
-        "id": 143,
+        "id": 63,
         "status": "Active",
         "building": "MNL85",
         "room_num": "20.02",
@@ -2328,49 +1992,7 @@
         "comment": ""
       },
       {
-        "id": 144,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "20.02",
-        "room_name": "MR MNL85 20.02",
-        "space_type": "Meeting Room",
-        "device_type": "Conferencing Device - MTR (Microsoft Teams Room)",
-        "description": "Logitech TAP IP",
-        "manufacturer": "Logitech",
-        "model": "VR0029",
-        "serial": "2404FDJX0ZU9",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 145,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "20.02",
-        "room_name": "MR MNL85 20.02",
-        "space_type": "Meeting Room",
-        "device_type": "Conferencing Device - USB Conferencing Video Bar",
-        "description": "Logitech Rally Bar",
-        "manufacturer": "Logitech",
-        "model": "VR0019",
-        "serial": "2349FD1NTP9M",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 146,
+        "id": 64,
         "status": "Active",
         "building": "MNL85",
         "room_num": "20.01",
@@ -2391,7 +2013,7 @@
         "comment": ""
       },
       {
-        "id": 147,
+        "id": 65,
         "status": "Active",
         "building": "MNL85",
         "room_num": "20.01",
@@ -2412,7 +2034,7 @@
         "comment": ""
       },
       {
-        "id": 148,
+        "id": 66,
         "status": "Active",
         "building": "MNL85",
         "room_num": "20.01",
@@ -2433,28 +2055,7 @@
         "comment": ""
       },
       {
-        "id": 149,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "20.01",
-        "room_name": "MR MNL85 20.01",
-        "space_type": "Meeting Room",
-        "device_type": "Conferencing Device - USB Conferencing Speaker",
-        "description": "Poly Sync40 USB Speakers",
-        "manufacturer": "Poly",
-        "model": "Sync 40",
-        "serial": "EE10W6",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 150,
+        "id": 67,
         "status": "Active",
         "building": "MNL85",
         "room_num": "20.03",
@@ -2475,7 +2076,7 @@
         "comment": ""
       },
       {
-        "id": 151,
+        "id": 68,
         "status": "Active",
         "building": "MNL85",
         "room_num": "20.03",
@@ -2496,7 +2097,7 @@
         "comment": ""
       },
       {
-        "id": 152,
+        "id": 69,
         "status": "Active",
         "building": "MNL85",
         "room_num": "20.03",
@@ -2517,28 +2118,7 @@
         "comment": ""
       },
       {
-        "id": 153,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "20.03",
-        "room_name": "MR MNL85 20.03",
-        "space_type": "Meeting Room",
-        "device_type": "Conferencing Device - USB Conferencing Speaker",
-        "description": "Poly Sync40 USB Speakers",
-        "manufacturer": "Poly",
-        "model": "Sync 40",
-        "serial": "EE11GW",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 154,
+        "id": 70,
         "status": "Active",
         "building": "MNL85",
         "room_num": "20.04",
@@ -2559,7 +2139,7 @@
         "comment": ""
       },
       {
-        "id": 155,
+        "id": 71,
         "status": "Active",
         "building": "MNL85",
         "room_num": "20.04",
@@ -2580,7 +2160,7 @@
         "comment": ""
       },
       {
-        "id": 156,
+        "id": 72,
         "status": "Active",
         "building": "MNL85",
         "room_num": "20.04",
@@ -2601,28 +2181,7 @@
         "comment": ""
       },
       {
-        "id": 157,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "20.04",
-        "room_name": "MR MNL85 20.04 -",
-        "space_type": "Meeting Room",
-        "device_type": "Conferencing Device - USB Conferencing Speaker",
-        "description": "Poly Sync40 USB Speakers",
-        "manufacturer": "Poly",
-        "model": "Sync 40",
-        "serial": "EE1194",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 158,
+        "id": 73,
         "status": "Active",
         "building": "MNL85",
         "room_num": "20.05",
@@ -2643,7 +2202,7 @@
         "comment": ""
       },
       {
-        "id": 159,
+        "id": 74,
         "status": "Active",
         "building": "MNL85",
         "room_num": "20.05",
@@ -2664,7 +2223,7 @@
         "comment": ""
       },
       {
-        "id": 160,
+        "id": 75,
         "status": "Active",
         "building": "MNL85",
         "room_num": "20.05",
@@ -2685,28 +2244,7 @@
         "comment": ""
       },
       {
-        "id": 161,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "20.05",
-        "room_name": "MR MNL85 20.05",
-        "space_type": "Meeting Room",
-        "device_type": "Conferencing Device - USB Conferencing Speaker",
-        "description": "Poly Sync40 USB Speakers",
-        "manufacturer": "Poly",
-        "model": "Sync 40",
-        "serial": "EE11HN",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 162,
+        "id": 76,
         "status": "Active",
         "building": "MNL85",
         "room_num": "20.06",
@@ -2727,7 +2265,7 @@
         "comment": ""
       },
       {
-        "id": 163,
+        "id": 77,
         "status": "Active",
         "building": "MNL85",
         "room_num": "20.06",
@@ -2748,7 +2286,7 @@
         "comment": ""
       },
       {
-        "id": 164,
+        "id": 78,
         "status": "Active",
         "building": "MNL85",
         "room_num": "20.06",
@@ -2769,28 +2307,7 @@
         "comment": ""
       },
       {
-        "id": 165,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "20.06",
-        "room_name": "MR MNL85 20.06",
-        "space_type": "Meeting Room",
-        "device_type": "Conferencing Device - USB Conferencing Speaker",
-        "description": "Poly Sync40 USB Speakers",
-        "manufacturer": "Poly",
-        "model": "Sync 40",
-        "serial": "EE10YE",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 166,
+        "id": 79,
         "status": "Active",
         "building": "MNL85",
         "room_num": "20.07",
@@ -2811,7 +2328,7 @@
         "comment": ""
       },
       {
-        "id": 167,
+        "id": 80,
         "status": "Active",
         "building": "MNL85",
         "room_num": "20.07",
@@ -2832,7 +2349,7 @@
         "comment": ""
       },
       {
-        "id": 168,
+        "id": 81,
         "status": "Active",
         "building": "MNL85",
         "room_num": "20.07",
@@ -2853,49 +2370,7 @@
         "comment": ""
       },
       {
-        "id": 169,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "20.07",
-        "room_name": "MR MNL85 20.07",
-        "space_type": "Meeting Room",
-        "device_type": "Conferencing Device - USB Conferencing Speaker",
-        "description": "Poly Sync40 USB Speakers",
-        "manufacturer": "Poly",
-        "model": "Sync 40",
-        "serial": "EE11GV",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 170,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "20.09",
-        "room_name": "DTR MNL85 20.09",
-        "space_type": "Design Thinking Room",
-        "device_type": "Conferencing Device - USB Conferencing Speaker",
-        "description": "Poly Sync40 USB Speakers",
-        "manufacturer": "Poly",
-        "model": "Sync 40",
-        "serial": "EE110T",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 171,
+        "id": 82,
         "status": "Active",
         "building": "MNL85",
         "room_num": "9.R06",
@@ -2916,28 +2391,7 @@
         "comment": ""
       },
       {
-        "id": 172,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "9.R06",
-        "room_name": "MRR MNL85 9.09 - Halcon",
-        "space_type": "Meeting Room",
-        "device_type": "Conferencing Device - USB Conferencing Speaker",
-        "description": "Poly Sync40 USB Speakers",
-        "manufacturer": "Poly",
-        "model": "Sync40",
-        "serial": "EE6C39",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 173,
+        "id": 83,
         "status": "Active",
         "building": "MNL85",
         "room_num": "9.R07",
@@ -2958,7 +2412,7 @@
         "comment": ""
       },
       {
-        "id": 174,
+        "id": 84,
         "status": "Active",
         "building": "MNL85",
         "room_num": "9.R07",
@@ -2979,28 +2433,7 @@
         "comment": ""
       },
       {
-        "id": 175,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "9.R07",
-        "room_name": "MRR MNL85 9.06 - Apo",
-        "space_type": "Meeting Room",
-        "device_type": "Display Technology - Display (Non-Touch)",
-        "description": "Samsung QM65B TV",
-        "manufacturer": "Samsung",
-        "model": "QM65B",
-        "serial": "0KGCHNET500021",
-        "equip_num": "35165831",
-        "isp_abc": "M",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 176,
+        "id": 85,
         "status": "Active",
         "building": "MNL85",
         "room_num": "9.R08",
@@ -3021,7 +2454,7 @@
         "comment": ""
       },
       {
-        "id": 177,
+        "id": 86,
         "status": "Active",
         "building": "MNL85",
         "room_num": "9.R08",
@@ -3042,7 +2475,7 @@
         "comment": ""
       },
       {
-        "id": 178,
+        "id": 87,
         "status": "Active",
         "building": "MNL85",
         "room_num": "9.R08",
@@ -3063,28 +2496,7 @@
         "comment": ""
       },
       {
-        "id": 179,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "9.R08",
-        "room_name": "MR MNL85 9.07 - Bulusan",
-        "space_type": "Meeting Room",
-        "device_type": "Conferencing Device - USB Conferencing Speaker",
-        "description": "Poly Sync40 USB Speakers",
-        "manufacturer": "Poly",
-        "model": "Sync40",
-        "serial": "EE6AYD",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 180,
+        "id": 88,
         "status": "Active",
         "building": "MNL85",
         "room_num": "9.R09",
@@ -3105,7 +2517,7 @@
         "comment": ""
       },
       {
-        "id": 181,
+        "id": 89,
         "status": "Active",
         "building": "MNL85",
         "room_num": "9.R09",
@@ -3126,49 +2538,7 @@
         "comment": ""
       },
       {
-        "id": 182,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "9.R09",
-        "room_name": "MR MNL85 9.08",
-        "space_type": "Meeting Room",
-        "device_type": "AV Component - AV Control Button\\Touch Panel",
-        "description": "Crestron MPC-M5-B-T",
-        "manufacturer": "Crestron",
-        "model": "MPC-M5",
-        "serial": "LE1912010664",
-        "equip_num": "34712289",
-        "isp_abc": "M",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 183,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "9.R09",
-        "room_name": "MR MNL85 9.08",
-        "space_type": "Meeting Room",
-        "device_type": "Conferencing Device - USB Conferencing Speaker",
-        "description": "Poly Sync40 USB Speakers",
-        "manufacturer": "Poly",
-        "model": "Sync40",
-        "serial": "EE6C3T",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 184,
+        "id": 90,
         "status": "Active",
         "building": "MNL85",
         "room_num": "O9.06",
@@ -3189,7 +2559,7 @@
         "comment": ""
       },
       {
-        "id": 185,
+        "id": 91,
         "status": "Active",
         "building": "MNL85",
         "room_num": "O9.R11",
@@ -3210,7 +2580,7 @@
         "comment": ""
       },
       {
-        "id": 186,
+        "id": 92,
         "status": "Active",
         "building": "MNL85",
         "room_num": "9.R11",
@@ -3231,154 +2601,7 @@
         "comment": ""
       },
       {
-        "id": 187,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "9.R11",
-        "room_name": "MRR MNL85 9R11 - Bulwagan",
-        "space_type": "Event Space",
-        "device_type": "Display Technology - Display (Non-Touch)",
-        "description": "LG 75UJ6570 TV",
-        "manufacturer": "LG",
-        "model": "75UJ6570",
-        "serial": "704KCTBKG753",
-        "equip_num": "34736150",
-        "isp_abc": "X",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 188,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "9.R11",
-        "room_name": "MRR MNL85 9R11 - Bulwagan",
-        "space_type": "Event Space",
-        "device_type": "AV Component - Microphone",
-        "description": "Shure PG58 Microphone",
-        "manufacturer": "Shure",
-        "model": "PG58",
-        "serial": "3PJ2412240",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 189,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "9.R11",
-        "room_name": "MRR MNL85 9R11 - Bulwagan",
-        "space_type": "Event Space",
-        "device_type": "AV Component - Controller\\Processor",
-        "description": "Crestron CP3 Processor",
-        "manufacturer": "Crestron",
-        "model": "CP3",
-        "serial": "15147784",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 190,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "9.R11",
-        "room_name": "MRR MNL85 9R11 - Bulwagan",
-        "space_type": "Event Space",
-        "device_type": "AV Component - Microphone",
-        "description": "Shure PG58 Microphone",
-        "manufacturer": "Shure",
-        "model": "PG58",
-        "serial": "3PJ2412240",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 191,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "9.R11",
-        "room_name": "MRR MNL85 9R11 - Bulwagan",
-        "space_type": "Event Space",
-        "device_type": "AV Component - Loudspeaker",
-        "description": "Bose DS16F Loudspeaker",
-        "manufacturer": "Bose",
-        "model": "DS16F",
-        "serial": "N/A",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 192,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "9.R11",
-        "room_name": "MRR MNL85 9R11 - Bulwagan",
-        "space_type": "Event Space",
-        "device_type": "AV Component - Camera",
-        "description": "Clearone Unite 200 HD PTZ Camera",
-        "manufacturer": "Clearone",
-        "model": "Unite 200 HD PTZ",
-        "serial": "N/A",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 193,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "9.R11",
-        "room_name": "MRR MNL85 9R11 - Bulwagan",
-        "space_type": "Event Space",
-        "device_type": "AV Component - HDMI Switcher",
-        "description": "KRAMER VS-44HN Switcher",
-        "manufacturer": "Crestron",
-        "model": "VS-44HN",
-        "serial": "11160619000049",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 194,
+        "id": 93,
         "status": "Active",
         "building": "MNL85",
         "room_num": "20.08",
@@ -3399,28 +2622,7 @@
         "comment": ""
       },
       {
-        "id": 195,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "20.08",
-        "room_name": "MRR MNL85 20.08 - Events Hall",
-        "space_type": "Event Space",
-        "device_type": "Display Technology - Display (Non-Touch)",
-        "description": "Samsung QB75N TV",
-        "manufacturer": "Samsung",
-        "model": "QB75N",
-        "serial": "06U7HNIKB00004B",
-        "equip_num": "34736156",
-        "isp_abc": "X",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 196,
+        "id": 94,
         "status": "Active",
         "building": "MNL85",
         "room_num": "20.08",
@@ -3441,154 +2643,7 @@
         "comment": ""
       },
       {
-        "id": 197,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "20.08",
-        "room_name": "MRR MNL85 20.08 - Events Hall",
-        "space_type": "Event Space",
-        "device_type": "AV Component - Microphone",
-        "description": "Shure SLX2 L4 Microphone",
-        "manufacturer": "Shure",
-        "model": "SLX2 L4",
-        "serial": "3RG2347915",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 198,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "20.08",
-        "room_name": "MRR MNL85 20.08 - Events Hall",
-        "space_type": "Event Space",
-        "device_type": "AV Component - Microphone",
-        "description": "Shure SLX2 L4 Microphone",
-        "manufacturer": "Shure",
-        "model": "SLX2 L4",
-        "serial": "3SA1708032",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 199,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "20.08",
-        "room_name": "MRR MNL85 20.08 - Events Hall",
-        "space_type": "Event Space",
-        "device_type": "AV Component - AV Control Button\\Touch Panel",
-        "description": "Crestron TSW-760 Touch Panel",
-        "manufacturer": "Crestron",
-        "model": "TSW-760",
-        "serial": "1840JBH16472",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 200,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "20.08",
-        "room_name": "MRR MNL85 20.08 - Events Hall",
-        "space_type": "Event Space",
-        "device_type": "AV Component - Amplifier",
-        "description": "Crestron AMP-2210T Amplifier",
-        "manufacturer": "Crestron",
-        "model": "AMP-2210T",
-        "serial": "14064354",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 201,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "20.08",
-        "room_name": "MRR MNL85 20.08 - Events Hall",
-        "space_type": "Event Space",
-        "device_type": "AV Component - Loudspeaker",
-        "description": "Bose DS16F Speaker",
-        "manufacturer": "Bose",
-        "model": "DS16F",
-        "serial": "N/A",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 202,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "20.08",
-        "room_name": "MRR MNL85 20.08 - Events Hall",
-        "space_type": "Event Space",
-        "device_type": "AV Component - HDMI Scaler",
-        "description": "Crestron DSP-1282 Scaler",
-        "manufacturer": "Crestron",
-        "model": "DSP-1282",
-        "serial": "17171825",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 203,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "20.08",
-        "room_name": "MRR MNL85 20.08 - Events Hall",
-        "space_type": "Event Space",
-        "device_type": "AV Component - HDMI Switcher",
-        "description": "Crestron DMPS3-300-C HDMI Switcher",
-        "manufacturer": "Crestron",
-        "model": "DMPS3-300-C",
-        "serial": "1745JBH03669",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 204,
+        "id": 95,
         "status": "Decommissioned",
         "building": "MNL85",
         "room_num": "20.MNL-SR",
@@ -3610,7 +2665,7 @@
         "decom_approved": true
       },
       {
-        "id": 205,
+        "id": 96,
         "status": "Decommissioned",
         "building": "MNL85",
         "room_num": "20.MNL-SR",
@@ -3632,7 +2687,7 @@
         "decom_approved": true
       },
       {
-        "id": 206,
+        "id": 97,
         "status": "Active",
         "building": "MNL85",
         "room_num": "O9.06",
@@ -3653,70 +2708,7 @@
         "comment": ""
       },
       {
-        "id": 207,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "O9.06",
-        "room_name": "IT Link Center",
-        "space_type": "Public Space",
-        "device_type": "Display Technology - Display (Non-Touch)",
-        "description": "LG 43 UH5N-E",
-        "manufacturer": "LG",
-        "model": "43UH5N-E",
-        "serial": "501INUB0Z358",
-        "equip_num": "35428748",
-        "isp_abc": "X",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 208,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "O9.06",
-        "room_name": "IT Link Center",
-        "space_type": "Public Space",
-        "device_type": "AV Component - Controller\\Processor",
-        "description": "Lenovo M920q Tiny",
-        "manufacturer": "Lenovo",
-        "model": "M920q Tiny",
-        "serial": "PC1E2D09",
-        "equip_num": "34844434",
-        "isp_abc": "X",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 209,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "O9.06",
-        "room_name": "IT Link Center",
-        "space_type": "Public Space",
-        "device_type": "AV Component - Controller\\Processor",
-        "description": "Lenovo M920q Tiny",
-        "manufacturer": "Lenovo",
-        "model": "M920q Tiny",
-        "serial": "PC1E2D0G",
-        "equip_num": "34844437",
-        "isp_abc": "X",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 210,
+        "id": 98,
         "status": "Active",
         "building": "MNL85",
         "room_num": "O9.R05",
@@ -3737,7 +2729,7 @@
         "comment": ""
       },
       {
-        "id": 211,
+        "id": 99,
         "status": "Active",
         "building": "MNL85",
         "room_num": "O9.R05",
@@ -3758,7 +2750,7 @@
         "comment": ""
       },
       {
-        "id": 212,
+        "id": 100,
         "status": "Active",
         "building": "MNL85",
         "room_num": "O9.R05",
@@ -3779,7 +2771,7 @@
         "comment": ""
       },
       {
-        "id": 213,
+        "id": 101,
         "status": "Active",
         "building": "MNL85",
         "room_num": "O9.R11",
@@ -3800,28 +2792,7 @@
         "comment": ""
       },
       {
-        "id": 214,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "O9.R11",
-        "room_name": "9F - Pantry",
-        "space_type": "Public Space",
-        "device_type": "Display Technology - Display (Non-Touch)",
-        "description": "LG 65UH6150 TV",
-        "manufacturer": "LG",
-        "model": "65UH6150",
-        "serial": "703INCN0B379",
-        "equip_num": "34736139",
-        "isp_abc": "X",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 215,
+        "id": 102,
         "status": "Active",
         "building": "MNL85",
         "room_num": "O7.R01",
@@ -3842,7 +2813,7 @@
         "comment": ""
       },
       {
-        "id": 216,
+        "id": 103,
         "status": "Active",
         "building": "MNL85",
         "room_num": "O7.R01",
@@ -3863,7 +2834,7 @@
         "comment": ""
       },
       {
-        "id": 217,
+        "id": 104,
         "status": "Active",
         "building": "MNL85",
         "room_num": "O7.R01",
@@ -3884,7 +2855,7 @@
         "comment": ""
       },
       {
-        "id": 218,
+        "id": 105,
         "status": "Active",
         "building": "MNL85",
         "room_num": "O7.R07",
@@ -3905,7 +2876,7 @@
         "comment": ""
       },
       {
-        "id": 219,
+        "id": 106,
         "status": "Active",
         "building": "MNL85",
         "room_num": "O7.R07",
@@ -3926,7 +2897,7 @@
         "comment": ""
       },
       {
-        "id": 220,
+        "id": 107,
         "status": "Active",
         "building": "MNL85",
         "room_num": "O7.R07",
@@ -3947,7 +2918,7 @@
         "comment": ""
       },
       {
-        "id": 221,
+        "id": 108,
         "status": "Active",
         "building": "MNL85",
         "room_num": "O20.09",
@@ -3968,7 +2939,7 @@
         "comment": ""
       },
       {
-        "id": 222,
+        "id": 109,
         "status": "Active",
         "building": "MNL85",
         "room_num": "O20.09",
@@ -3989,7 +2960,7 @@
         "comment": ""
       },
       {
-        "id": 223,
+        "id": 110,
         "status": "Active",
         "building": "MNL85",
         "room_num": "O20.08",
@@ -4010,7 +2981,7 @@
         "comment": ""
       },
       {
-        "id": 224,
+        "id": 111,
         "status": "Active",
         "building": "MNL85",
         "room_num": "O19.R07",
@@ -4031,7 +3002,7 @@
         "comment": ""
       },
       {
-        "id": 225,
+        "id": 112,
         "status": "Active",
         "building": "MNL85",
         "room_num": "O19.R07",
@@ -4052,7 +3023,7 @@
         "comment": ""
       },
       {
-        "id": 226,
+        "id": 113,
         "status": "Active",
         "building": "MNL85",
         "room_num": "O19.R07",
@@ -4073,7 +3044,7 @@
         "comment": ""
       },
       {
-        "id": 227,
+        "id": 114,
         "status": "Active",
         "building": "MNL85",
         "room_num": "O19.R05",
@@ -4094,7 +3065,7 @@
         "comment": ""
       },
       {
-        "id": 228,
+        "id": 115,
         "status": "Active",
         "building": "MNL85",
         "room_num": "O19.R05",
@@ -4115,28 +3086,7 @@
         "comment": ""
       },
       {
-        "id": 229,
-        "status": "Active",
-        "building": "MNL85",
-        "room_num": "O19.R05",
-        "room_name": "19F - Pantry",
-        "space_type": "Public Space",
-        "device_type": "Display Technology - Display (Non-Touch)",
-        "description": "Samsung UA65JU6000RXXP TV",
-        "manufacturer": "Samsung",
-        "model": "UA60J6200ARXXP",
-        "serial": "0BTR3MJH400031P",
-        "equip_num": "34736186",
-        "isp_abc": "X",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
-      },
-      {
-        "id": 230,
+        "id": 116,
         "status": "Active",
         "building": "MNL85",
         "room_num": "9.R10",
@@ -4157,7 +3107,7 @@
         "comment": ""
       },
       {
-        "id": 231,
+        "id": 117,
         "status": "Active",
         "building": "MNL85",
         "room_num": "9.R10",
@@ -4178,7 +3128,7 @@
         "comment": ""
       },
       {
-        "id": 232,
+        "id": 118,
         "status": "Active",
         "building": "MNL85",
         "room_num": "9.R10",
@@ -4199,28 +3149,66 @@
         "comment": ""
       },
       {
-        "id": 233,
-        "status": "Active",
+        "id": 122,
+        "status": "Decommissioned",
         "building": "MNL85",
-        "room_num": "9.R10",
-        "room_name": "MR MNL85 9R10 - Malipunyo",
-        "space_type": "Meeting Room",
-        "device_type": "Conferencing Device - USB Conferencing Speaker",
-        "description": "Poly Sync40 USB Speakers",
-        "manufacturer": "Poly",
-        "model": "Sync40",
-        "serial": "EE6BVX",
-        "equip_num": "N/A",
-        "isp_abc": "N/A",
-        "cable": "",
-        "photo": "",
-        "sticker": "",
-        "mrc_status": "",
-        "isp_status": "",
-        "comment": ""
+        "room_num": "XZVZ",
+        "room_name": "ZDV",
+        "space_type": "DV",
+        "device_type": "ZDV",
+        "description": "ZDV",
+        "model": "ZDV",
+        "serial": "ZDV",
+        "equip_num": "ZDV",
+        "isp_abc": "Z",
+        "decom_approved": true
       },
       {
-        "id": 234,
+        "id": 123,
+        "status": "Decommissioned",
+        "building": "MNL85",
+        "room_num": "19.R01",
+        "room_name": "MR MNL85 19.02A - Sinulog",
+        "space_type": "",
+        "device_type": "S",
+        "description": "S",
+        "model": "S",
+        "serial": "S",
+        "equip_num": "S",
+        "isp_abc": "S",
+        "decom_approved": true
+      },
+      {
+        "id": 124,
+        "status": "Decommissioned",
+        "building": "MNL85",
+        "room_num": "7.R05",
+        "room_name": "MR MNL85 7R05 - Arayat",
+        "space_type": "",
+        "device_type": "S",
+        "description": "S",
+        "model": "S",
+        "serial": "S",
+        "equip_num": "S",
+        "isp_abc": "S",
+        "decom_approved": true
+      },
+      {
+        "id": 125,
+        "status": "Active",
+        "building": "MNL85",
+        "room_num": "19.R01",
+        "room_name": "MR MNL85 19.02A - Sinulog",
+        "space_type": "",
+        "device_type": "d",
+        "description": "d",
+        "model": "d",
+        "serial": "d",
+        "equip_num": "d",
+        "isp_abc": "d"
+      },
+      {
+        "id": 126,
         "status": "Active",
         "building": "MNL85",
         "room_num": "XVX",
@@ -5495,7 +4483,7 @@
       },
       {
         "id": 66,
-        "status": "Active",
+        "status": "Decommissioned",
         "building": "MNL04",
         "room_num": "12.372",
         "room_name": "IT Storage Room",
@@ -5510,7 +4498,8 @@
         "sticker": "Has an equ# sticker",
         "mrc_status": "Device type is not required in MRC",
         "isp_status": "Updated",
-        "comment": "Storage Room Equipment"
+        "comment": "Storage Room Equipment",
+        "decom_approved": true
       },
       {
         "id": 67,
@@ -5535,6 +4524,13 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-05-26T14:30:28.424Z",
+      "action": "Decommission",
+      "detail": "MNL02 · 27.01 · AV Link HDM-SLC Transmitter",
+      "data": null,
+      "username": "C5364095"
+    },
     {
       "ts": "2026-05-26T12:25:06.361Z",
       "action": "Decommission",
