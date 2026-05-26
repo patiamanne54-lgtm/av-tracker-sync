@@ -3190,6 +3190,20 @@
         "equip_num": "S",
         "isp_abc": "S",
         "decom_approved": true
+      },
+      {
+        "id": 125,
+        "status": "Active",
+        "building": "MNL85",
+        "room_num": "19.R01",
+        "room_name": "MR MNL85 19.02A - Sinulog",
+        "space_type": "",
+        "device_type": "d",
+        "description": "d",
+        "model": "d",
+        "serial": "d",
+        "equip_num": "d",
+        "isp_abc": "d"
       }
     ],
     "MNL04": [
@@ -4494,6 +4508,26 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-05-26T08:21:27.210Z",
+      "action": "Add",
+      "detail": "MNL85 · 19.R01 · d",
+      "data": {
+        "id": 125,
+        "status": "Active",
+        "building": "MNL85",
+        "room_num": "19.R01",
+        "room_name": "MR MNL85 19.02A - Sinulog",
+        "space_type": "",
+        "device_type": "d",
+        "description": "d",
+        "model": "d",
+        "serial": "d",
+        "equip_num": "d",
+        "isp_abc": "d"
+      },
+      "username": "C5364095"
+    },
     {
       "ts": "2026-05-25T13:42:31.821Z",
       "action": "Decline",
