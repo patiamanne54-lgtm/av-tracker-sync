@@ -386,7 +386,7 @@
       },
       {
         "id": 20,
-        "status": "Decommissioned",
+        "status": "Active",
         "building": "MNL02",
         "room_num": "27.01",
         "room_name": "Cebu",
@@ -4463,7 +4463,7 @@
       },
       {
         "id": 65,
-        "status": "Active",
+        "status": "Decommissioned",
         "building": "MNL04",
         "room_num": "12.372",
         "room_name": "IT Storage Room",
@@ -4524,6 +4524,13 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-06-08T10:30:59.160Z",
+      "action": "Decline",
+      "detail": "MNL02 · 27.01 · AV Link HDM-SLC Transmitter",
+      "data": null,
+      "username": "Admin"
+    },
     {
       "ts": "2026-05-26T14:30:28.424Z",
       "action": "Decommission",
