@@ -4349,7 +4349,7 @@
       },
       {
         "id": 59,
-        "status": "Decommissioned",
+        "status": "Active",
         "building": "MNL04",
         "room_num": "12.1",
         "room_name": "12F - Reception",
@@ -4524,6 +4524,13 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-06-08T10:31:00.128Z",
+      "action": "Decline",
+      "detail": "MNL04 · 12.1 · Polycom Real Presence USB Conferencing S",
+      "data": null,
+      "username": "Admin"
+    },
     {
       "ts": "2026-06-08T10:30:59.160Z",
       "action": "Decline",
