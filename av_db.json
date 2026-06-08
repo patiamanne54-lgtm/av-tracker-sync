@@ -3149,21 +3149,6 @@
         "comment": ""
       },
       {
-        "id": 122,
-        "status": "Decommissioned",
-        "building": "MNL85",
-        "room_num": "XZVZ",
-        "room_name": "ZDV",
-        "space_type": "DV",
-        "device_type": "ZDV",
-        "description": "ZDV",
-        "model": "ZDV",
-        "serial": "ZDV",
-        "equip_num": "ZDV",
-        "isp_abc": "Z",
-        "decom_approved": true
-      },
-      {
         "id": 123,
         "status": "Decommissioned",
         "building": "MNL85",
