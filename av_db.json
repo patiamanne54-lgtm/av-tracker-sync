@@ -725,7 +725,8 @@
         "sticker": "Has an equ# sticker",
         "mrc_status": "Device type is not required in MRC",
         "isp_status": "Updated",
-        "comment": "Storage Room Equipment"
+        "comment": "Storage Room Equipment",
+        "decom_approved": true
       }
     ],
     "MNL85": [
@@ -4450,6 +4451,13 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-06-18T10:16:04.789Z",
+      "action": "Approve",
+      "detail": "MNL02 · 27.31 · Crestron TSS-770 eDoor Plate",
+      "data": null,
+      "username": "Admin"
+    },
     {
       "ts": "2026-06-18T10:15:57.109Z",
       "action": "Decommission",
