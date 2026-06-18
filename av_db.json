@@ -3196,7 +3196,7 @@
       },
       {
         "id": 126,
-        "status": "Active",
+        "status": "Pending Decommission",
         "building": "MNL85",
         "room_num": "XVX",
         "room_name": "XVX",
@@ -3206,7 +3206,9 @@
         "model": "XVX",
         "serial": "XVX",
         "equip_num": "XVX",
-        "isp_abc": "XVX"
+        "isp_abc": "XVX",
+        "decom_requested_by": "C5364095",
+        "decom_requested_at": "2026-06-18T12:06:09.382Z"
       }
     ],
     "MNL04": [
@@ -3228,8 +3230,7 @@
         "mrc_status": "No Change Needed",
         "isp_status": "Updated",
         "comment": "",
-        "decom_approved": true,
-        "decom_approved_at": "2026-06-18T11:31:48.006Z"
+        "decom_approved": true
       },
       {
         "id": 1,
@@ -4453,6 +4454,13 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-06-18T12:06:09.382Z",
+      "action": "Decommission Request",
+      "detail": "MNL85 · XVX · XVX (by C5364095)",
+      "data": null,
+      "username": "C5364095"
+    },
     {
       "ts": "2026-06-18T11:31:48.006Z",
       "action": "Approved Decommission",
