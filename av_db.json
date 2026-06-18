@@ -690,7 +690,7 @@
       },
       {
         "id": 36,
-        "status": "Active",
+        "status": "Decommissioned",
         "building": "MNL02",
         "room_num": "27.31",
         "room_name": "IT Storage Room",
@@ -3153,7 +3153,7 @@
         "status": "Decommissioned",
         "building": "MNL85",
         "room_num": "19.R01",
-        "room_name": "MR MNL85 19.02A - Sinulog",
+        "room_name": "MR MNL85 7R05 - Arayat",
         "space_type": "",
         "device_type": "S",
         "description": "S",
@@ -4449,6 +4449,13 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-06-18T10:14:36.222Z",
+      "action": "Decommission",
+      "detail": "MNL02 · 27.31 · Crestron TSS-770 eDoor Plate",
+      "data": null,
+      "username": "C5364095"
+    },
     {
       "ts": "2026-06-08T10:35:52.753Z",
       "action": "Decline",
