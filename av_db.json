@@ -2644,6 +2644,50 @@
         "comment": ""
       },
       {
+        "id": 95,
+        "status": "Decommissioned",
+        "building": "MNL85",
+        "room_num": "20.MNL-SR",
+        "room_name": "IT Storage Room",
+        "space_type": "Storage Room",
+        "device_type": "Conferencing Device - MTR (Microsoft Teams Room)",
+        "description": "Lenovo Thinksmart Hub",
+        "manufacturer": "Lenovo",
+        "model": "Thinksmart Hub",
+        "serial": "PF2Z60M5",
+        "equip_num": "35001013",
+        "isp_abc": "R",
+        "cable": "",
+        "photo": "",
+        "sticker": "",
+        "mrc_status": "",
+        "isp_status": "",
+        "comment": "",
+        "decom_approved": true
+      },
+      {
+        "id": 96,
+        "status": "Decommissioned",
+        "building": "MNL85",
+        "room_num": "20.MNL-SR",
+        "room_name": "IT Storage Room",
+        "space_type": "Storage Room",
+        "device_type": "Wireless Presenting - Wireless Presenting",
+        "description": "Polycom Pano Present",
+        "manufacturer": "POLYCOM",
+        "model": "Pano",
+        "serial": "82184649BA14DZ",
+        "equip_num": "34710018",
+        "isp_abc": "R",
+        "cable": "",
+        "photo": "",
+        "sticker": "",
+        "mrc_status": "",
+        "isp_status": "",
+        "comment": "",
+        "decom_approved": true
+      },
+      {
         "id": 97,
         "status": "Active",
         "building": "MNL85",
@@ -3168,7 +3212,7 @@
     "MNL04": [
       {
         "id": 0,
-        "status": "Active",
+        "status": "Pending Decommission",
         "building": "MNL04",
         "room_num": "12.02",
         "room_name": "MR MNL04 12.02 - Meeting Room",
@@ -3183,7 +3227,9 @@
         "sticker": "Equ# Sticker has been printed and affixed",
         "mrc_status": "No Change Needed",
         "isp_status": "Updated",
-        "comment": ""
+        "comment": "",
+        "decom_requested_by": "C5408164",
+        "decom_requested_at": "2026-06-18T11:30:17.445Z"
       },
       {
         "id": 1,
@@ -4407,6 +4453,13 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-06-18T11:30:17.445Z",
+      "action": "Decommission Request",
+      "detail": "MNL04 · 12.02 · Samsung QM85R-B TV (by C5408164)",
+      "data": null,
+      "username": "C5408164"
+    },
     {
       "ts": "2026-06-18T11:02:26.478Z",
       "action": "Approved Decommission",
