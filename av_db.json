@@ -3207,10 +3207,8 @@
         "serial": "XVX",
         "equip_num": "XVX",
         "isp_abc": "XVX",
-        "decom_requested_by": "C5364095",
-        "decom_requested_at": "2026-06-18T12:06:09.382Z",
         "decom_approved": true,
-        "decom_approved_at": "2026-06-18T12:07:20.648Z"
+        "decom_approved_at": "2026-06-18T12:09:42.695Z"
       }
     ],
     "MNL04": [
@@ -4456,6 +4454,13 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-06-18T12:09:42.695Z",
+      "action": "Approved Decommission",
+      "detail": "MNL85 · XVX · XVX",
+      "data": null,
+      "username": "Admin"
+    },
     {
       "ts": "2026-06-18T12:07:20.648Z",
       "action": "Approved Decommission",
