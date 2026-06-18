@@ -690,7 +690,7 @@
       },
       {
         "id": 36,
-        "status": "Active",
+        "status": "Decommissioned",
         "building": "MNL02",
         "room_num": "27.31",
         "room_name": "IT Storage Room",
@@ -4449,6 +4449,13 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-06-18T10:15:15.606Z",
+      "action": "Decommission",
+      "detail": "MNL02 · 27.31 · Crestron TSS-770 eDoor Plate",
+      "data": null,
+      "username": "C5364095"
+    },
     {
       "ts": "2026-06-18T10:14:58.717Z",
       "action": "Decommission",
