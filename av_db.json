@@ -690,7 +690,7 @@
       },
       {
         "id": 36,
-        "status": "Decommissioned",
+        "status": "Active",
         "building": "MNL02",
         "room_num": "27.31",
         "room_name": "IT Storage Room",
@@ -706,8 +706,7 @@
         "mrc_status": "Device type is not required in MRC",
         "isp_status": "Updated",
         "comment": "Storage Room Equipment",
-        "decom_approved": true,
-        "decom_approved_at": "2026-06-18T10:58:03.405Z"
+        "decom_approved": true
       },
       {
         "id": 37,
@@ -3182,7 +3181,7 @@
       },
       {
         "id": 125,
-        "status": "Active",
+        "status": "Pending Decommission",
         "building": "MNL85",
         "room_num": "19.R01",
         "room_name": "MR MNL85 19.02A - Sinulog",
@@ -3192,7 +3191,9 @@
         "model": "d",
         "serial": "d",
         "equip_num": "d",
-        "isp_abc": "d"
+        "isp_abc": "d",
+        "decom_requested_by": "C5364095",
+        "decom_requested_at": "2026-06-18T11:02:14.117Z"
       },
       {
         "id": 126,
@@ -4451,6 +4452,13 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-06-18T11:02:14.118Z",
+      "action": "Decommission Request",
+      "detail": "MNL85 · 19.R01 · d (by C5364095)",
+      "data": null,
+      "username": "C5364095"
+    },
     {
       "ts": "2026-06-18T10:58:03.405Z",
       "action": "Approved Decommission",
