@@ -3212,7 +3212,7 @@
     "MNL04": [
       {
         "id": 0,
-        "status": "Pending Decommission",
+        "status": "Decommissioned",
         "building": "MNL04",
         "room_num": "12.02",
         "room_name": "MR MNL04 12.02 - Meeting Room",
@@ -3228,8 +3228,8 @@
         "mrc_status": "No Change Needed",
         "isp_status": "Updated",
         "comment": "",
-        "decom_requested_by": "C5408164",
-        "decom_requested_at": "2026-06-18T11:30:17.445Z"
+        "decom_approved": true,
+        "decom_approved_at": "2026-06-18T11:31:48.006Z"
       },
       {
         "id": 1,
@@ -4453,6 +4453,13 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-06-18T11:31:48.006Z",
+      "action": "Approved Decommission",
+      "detail": "MNL04 · 12.02 · Samsung QM85R-B TV",
+      "data": null,
+      "username": "Admin"
+    },
     {
       "ts": "2026-06-18T11:30:17.445Z",
       "action": "Decommission Request",
