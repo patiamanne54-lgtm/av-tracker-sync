@@ -758,7 +758,7 @@
       },
       {
         "id": 40,
-        "status": "Active",
+        "status": "Pending Decommission",
         "building": "MNL02",
         "room_num": "29.1",
         "room_name": "Batulao",
@@ -768,7 +768,9 @@
         "model": "f",
         "serial": "f",
         "equip_num": "f",
-        "isp_abc": "f"
+        "isp_abc": "f",
+        "decom_requested_by": "C5364095",
+        "decom_requested_at": "2026-06-22T12:43:29.077Z"
       }
     ],
     "MNL85": [
@@ -4496,6 +4498,13 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-06-22T12:43:29.077Z",
+      "action": "Decommission Request",
+      "detail": "MNL02 · 29.1 · S (by C5364095)",
+      "data": null,
+      "username": "C5364095"
+    },
     {
       "ts": "2026-06-22T12:43:15.255Z",
       "action": "Add",
