@@ -690,7 +690,7 @@
       },
       {
         "id": 36,
-        "status": "Decommissioned",
+        "status": "Active",
         "building": "MNL02",
         "room_num": "27.31",
         "room_name": "IT Storage Room",
@@ -705,12 +705,11 @@
         "sticker": "Has an equ# sticker",
         "mrc_status": "Device type is not required in MRC",
         "isp_status": "Updated",
-        "comment": "Storage Room Equipment",
-        "decom_approved": true
+        "comment": "Storage Room Equipment"
       },
       {
         "id": 37,
-        "status": "Decommissioned",
+        "status": "Active",
         "building": "MNL02",
         "room_num": "27.31",
         "room_name": "IT Storage Room",
@@ -725,9 +724,22 @@
         "sticker": "Has an equ# sticker",
         "mrc_status": "Device type is not required in MRC",
         "isp_status": "Updated",
-        "comment": "Storage Room Equipment",
-        "decom_approved": true,
-        "decom_approved_at": "2026-06-22T11:02:46.463Z"
+        "comment": "Storage Room Equipment"
+      },
+      {
+        "id": 38,
+        "status": "Active",
+        "building": "MNL02",
+        "room_num": "29.1",
+        "room_name": "Batulao",
+        "space_type": "",
+        "device_type": "",
+        "description": "",
+        "model": "",
+        "serial": "",
+        "equip_num": "",
+        "isp_abc": "",
+        "room_only": true
       }
     ],
     "MNL85": [
@@ -4455,6 +4467,16 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-06-22T12:28:13.502Z",
+      "action": "Add",
+      "detail": "MNL02 · 29.1 · Batulao",
+      "data": {
+        "room_num": "29.1",
+        "room_name": "Batulao"
+      },
+      "username": ""
+    },
     {
       "ts": "2026-06-22T11:02:46.463Z",
       "action": "Approved Decommission",
