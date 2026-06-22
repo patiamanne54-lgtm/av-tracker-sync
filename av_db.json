@@ -708,11 +708,11 @@
         "comment": "Storage Room Equipment",
         "decom_approved": true,
         "decom_requested_by": "C5364095",
-        "decom_requested_at": "2026-06-22T09:45:44.295Z"
+        "decom_requested_at": "2026-06-22T09:52:14.622Z"
       },
       {
         "id": 37,
-        "status": "Pending Decommission",
+        "status": "Active",
         "building": "MNL02",
         "room_num": "27.31",
         "room_name": "IT Storage Room",
@@ -727,9 +727,7 @@
         "sticker": "Has an equ# sticker",
         "mrc_status": "Device type is not required in MRC",
         "isp_status": "Updated",
-        "comment": "Storage Room Equipment",
-        "decom_requested_by": "C5364095",
-        "decom_requested_at": "2026-06-22T09:46:01.094Z"
+        "comment": "Storage Room Equipment"
       }
     ],
     "MNL85": [
@@ -2648,6 +2646,50 @@
         "comment": ""
       },
       {
+        "id": 95,
+        "status": "Decommissioned",
+        "building": "MNL85",
+        "room_num": "20.MNL-SR",
+        "room_name": "IT Storage Room",
+        "space_type": "Storage Room",
+        "device_type": "Conferencing Device - MTR (Microsoft Teams Room)",
+        "description": "Lenovo Thinksmart Hub",
+        "manufacturer": "Lenovo",
+        "model": "Thinksmart Hub",
+        "serial": "PF2Z60M5",
+        "equip_num": "35001013",
+        "isp_abc": "R",
+        "cable": "",
+        "photo": "",
+        "sticker": "",
+        "mrc_status": "",
+        "isp_status": "",
+        "comment": "",
+        "decom_approved": true
+      },
+      {
+        "id": 96,
+        "status": "Decommissioned",
+        "building": "MNL85",
+        "room_num": "20.MNL-SR",
+        "room_name": "IT Storage Room",
+        "space_type": "Storage Room",
+        "device_type": "Wireless Presenting - Wireless Presenting",
+        "description": "Polycom Pano Present",
+        "manufacturer": "POLYCOM",
+        "model": "Pano",
+        "serial": "82184649BA14DZ",
+        "equip_num": "34710018",
+        "isp_abc": "R",
+        "cable": "",
+        "photo": "",
+        "sticker": "",
+        "mrc_status": "",
+        "isp_status": "",
+        "comment": "",
+        "decom_approved": true
+      },
+      {
         "id": 97,
         "status": "Active",
         "building": "MNL85",
@@ -3153,6 +3195,20 @@
         "equip_num": "d",
         "isp_abc": "d",
         "decom_approved": true
+      },
+      {
+        "id": 126,
+        "status": "Active",
+        "building": "MNL85",
+        "room_num": "XVX",
+        "room_name": "XVX",
+        "space_type": "XVX",
+        "device_type": "XVX",
+        "description": "XVX",
+        "model": "XVX",
+        "serial": "XVX",
+        "equip_num": "XVX",
+        "isp_abc": "XVX"
       }
     ],
     "MNL04": [
@@ -4398,6 +4454,27 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-06-22T09:52:14.622Z",
+      "action": "Decommission Request",
+      "detail": "MNL02 · 27.31 · Crestron TSS-770 eDoor Plate (by C5364095)",
+      "data": null,
+      "username": "C5364095"
+    },
+    {
+      "ts": "2026-06-22T09:46:24.911Z",
+      "action": "Decommission Request",
+      "detail": "MNL02 · 27.31 · Crestron TSS-770 eDoor Plate (by C5364095)",
+      "data": null,
+      "username": "C5364095"
+    },
+    {
+      "ts": "2026-06-22T09:46:08.319Z",
+      "action": "Approved Decommission",
+      "detail": "MNL02 · 27.31 · Crestron TSS-770 eDoor Plate",
+      "data": null,
+      "username": "Admin"
+    },
     {
       "ts": "2026-06-22T09:46:01.094Z",
       "action": "Decommission Request",
