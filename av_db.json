@@ -3193,24 +3193,6 @@
         "equip_num": "d",
         "isp_abc": "d",
         "decom_approved": true
-      },
-      {
-        "id": 126,
-        "status": "Decommissioned",
-        "building": "MNL85",
-        "room_num": "XVX",
-        "room_name": "XVX",
-        "space_type": "XVX",
-        "device_type": "XVX",
-        "description": "XVX",
-        "model": "XVX",
-        "serial": "XVX",
-        "equip_num": "XVX",
-        "isp_abc": "XVX",
-        "decom_requested_by": "C5364095",
-        "decom_requested_at": "2026-06-22T09:31:41.598Z",
-        "decom_approved": true,
-        "decom_approved_at": "2026-06-22T09:31:53.767Z"
       }
     ],
     "MNL04": [
