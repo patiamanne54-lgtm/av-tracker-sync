@@ -690,27 +690,6 @@
       },
       {
         "id": 36,
-        "status": "Decommissioned",
-        "building": "MNL02",
-        "room_num": "27.31",
-        "room_name": "IT Storage Room",
-        "space_type": "Storage Room",
-        "device_type": "eDoor plate - eDoor Plate",
-        "description": "Crestron TSS-770 eDoor Plate",
-        "manufacturer": "Crestron",
-        "model": "TSS-770",
-        "serial": "2311JBH00219",
-        "equip_num": "35173227",
-        "isp_abc": "M",
-        "sticker": "Has an equ# sticker",
-        "mrc_status": "Device type is not required in MRC",
-        "isp_status": "Updated",
-        "comment": "Storage Room Equipment",
-        "decom_approved": true,
-        "decom_approved_at": "2026-06-22T09:52:46.982Z"
-      },
-      {
-        "id": 37,
         "status": "Active",
         "building": "MNL02",
         "room_num": "27.31",
@@ -726,7 +705,29 @@
         "sticker": "Has an equ# sticker",
         "mrc_status": "Device type is not required in MRC",
         "isp_status": "Updated",
-        "comment": "Storage Room Equipment"
+        "comment": "Storage Room Equipment",
+        "decom_approved": true
+      },
+      {
+        "id": 37,
+        "status": "Pending Decommission",
+        "building": "MNL02",
+        "room_num": "27.31",
+        "room_name": "IT Storage Room",
+        "space_type": "Storage Room",
+        "device_type": "eDoor plate - eDoor Plate",
+        "description": "Crestron TSS-770 eDoor Plate",
+        "manufacturer": "Crestron",
+        "model": "TSS-770",
+        "serial": "2311JBH00219",
+        "equip_num": "35173227",
+        "isp_abc": "M",
+        "sticker": "Has an equ# sticker",
+        "mrc_status": "Device type is not required in MRC",
+        "isp_status": "Updated",
+        "comment": "Storage Room Equipment",
+        "decom_requested_by": "C5364095",
+        "decom_requested_at": "2026-06-22T10:11:45.318Z"
       }
     ],
     "MNL85": [
@@ -4453,6 +4454,13 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-06-22T10:11:45.318Z",
+      "action": "Decommission Request",
+      "detail": "MNL02 · 27.31 · Crestron TSS-770 eDoor Plate (by C5364095)",
+      "data": null,
+      "username": "C5364095"
+    },
     {
       "ts": "2026-06-22T09:52:46.982Z",
       "action": "Approved Decommission",
