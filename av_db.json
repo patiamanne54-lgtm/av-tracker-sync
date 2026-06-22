@@ -690,7 +690,7 @@
       },
       {
         "id": 36,
-        "status": "Active",
+        "status": "Pending Decommission",
         "building": "MNL02",
         "room_num": "27.31",
         "room_name": "IT Storage Room",
@@ -710,7 +710,7 @@
       },
       {
         "id": 37,
-        "status": "Pending Decommission",
+        "status": "Active",
         "building": "MNL02",
         "room_num": "27.31",
         "room_name": "IT Storage Room",
@@ -725,9 +725,7 @@
         "sticker": "Has an equ# sticker",
         "mrc_status": "Device type is not required in MRC",
         "isp_status": "Updated",
-        "comment": "Storage Room Equipment",
-        "decom_requested_by": "C5364095",
-        "decom_requested_at": "2026-06-22T10:11:45.318Z"
+        "comment": "Storage Room Equipment"
       }
     ],
     "MNL85": [
@@ -3198,7 +3196,7 @@
       },
       {
         "id": 126,
-        "status": "Active",
+        "status": "Pending Decommission",
         "building": "MNL85",
         "room_num": "XVX",
         "room_name": "XVX",
@@ -3208,7 +3206,9 @@
         "model": "XVX",
         "serial": "XVX",
         "equip_num": "XVX",
-        "isp_abc": "XVX"
+        "isp_abc": "XVX",
+        "decom_requested_by": "C5364095",
+        "decom_requested_at": "2026-06-22T10:20:36.022Z"
       }
     ],
     "MNL04": [
@@ -4454,6 +4454,13 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-06-22T10:20:36.022Z",
+      "action": "Decommission Request",
+      "detail": "MNL85 · XVX · XVX (by C5364095)",
+      "data": null,
+      "username": "C5364095"
+    },
     {
       "ts": "2026-06-22T10:11:45.318Z",
       "action": "Decommission Request",
