@@ -690,7 +690,7 @@
       },
       {
         "id": 36,
-        "status": "Pending Decommission",
+        "status": "Active",
         "building": "MNL02",
         "room_num": "27.31",
         "room_name": "IT Storage Room",
@@ -712,7 +712,7 @@
       },
       {
         "id": 37,
-        "status": "Active",
+        "status": "Pending Decommission",
         "building": "MNL02",
         "room_num": "27.31",
         "room_name": "IT Storage Room",
@@ -727,7 +727,9 @@
         "sticker": "Has an equ# sticker",
         "mrc_status": "Device type is not required in MRC",
         "isp_status": "Updated",
-        "comment": "Storage Room Equipment"
+        "comment": "Storage Room Equipment",
+        "decom_requested_by": "C5364095",
+        "decom_requested_at": "2026-06-22T09:52:28.591Z"
       }
     ],
     "MNL85": [
@@ -4454,6 +4456,13 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-06-22T09:52:28.591Z",
+      "action": "Decommission Request",
+      "detail": "MNL02 · 27.31 · Crestron TSS-770 eDoor Plate (by C5364095)",
+      "data": null,
+      "username": "C5364095"
+    },
     {
       "ts": "2026-06-22T09:52:14.622Z",
       "action": "Decommission Request",
