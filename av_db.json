@@ -690,48 +690,6 @@
       },
       {
         "id": 36,
-        "status": "Decommissioned",
-        "building": "MNL02",
-        "room_num": "27.31",
-        "room_name": "IT Storage Room",
-        "space_type": "Storage Room",
-        "device_type": "eDoor plate - eDoor Plate",
-        "description": "Crestron TSS-770 eDoor Plate",
-        "manufacturer": "Crestron",
-        "model": "TSS-770",
-        "serial": "2311JBH00219",
-        "equip_num": "35173227",
-        "isp_abc": "M",
-        "sticker": "Has an equ# sticker",
-        "mrc_status": "Device type is not required in MRC",
-        "isp_status": "Updated",
-        "comment": "Storage Room Equipment",
-        "decom_approved": true,
-        "decom_approved_at": "2026-06-23T05:39:06.131Z"
-      },
-      {
-        "id": 37,
-        "status": "Decommissioned",
-        "building": "MNL02",
-        "room_num": "27.31",
-        "room_name": "IT Storage Room",
-        "space_type": "Storage Room",
-        "device_type": "eDoor plate - eDoor Plate",
-        "description": "Crestron TSS-770 eDoor Plate",
-        "manufacturer": "Crestron",
-        "model": "TSS-770",
-        "serial": "2311JBH00219",
-        "equip_num": "35173227",
-        "isp_abc": "M",
-        "sticker": "Has an equ# sticker",
-        "mrc_status": "Device type is not required in MRC",
-        "isp_status": "Updated",
-        "comment": "Storage Room Equipment",
-        "decom_approved": true,
-        "decom_approved_at": "2026-06-23T05:39:07.159Z"
-      },
-      {
-        "id": 38,
         "status": "Active",
         "building": "MNL02",
         "room_num": "27.10",
@@ -744,6 +702,20 @@
         "equip_num": "",
         "isp_abc": "",
         "room_only": true
+      },
+      {
+        "id": 37,
+        "status": "Active",
+        "building": "MNL02",
+        "room_num": "27.314",
+        "room_name": "IT Link Center",
+        "space_type": "",
+        "device_type": "AV Component - Camera",
+        "description": "S",
+        "model": "S",
+        "serial": "d",
+        "equip_num": "S",
+        "isp_abc": "X"
       }
     ],
     "MNL85": [
@@ -4471,6 +4443,26 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-06-23T06:35:00.116Z",
+      "action": "Add",
+      "detail": "MNL02 · 27.314 · S",
+      "data": {
+        "id": 37,
+        "status": "Active",
+        "building": "MNL02",
+        "room_num": "27.314",
+        "room_name": "IT Link Center",
+        "space_type": "",
+        "device_type": "AV Component - Camera",
+        "description": "S",
+        "model": "S",
+        "serial": "d",
+        "equip_num": "S",
+        "isp_abc": "X"
+      },
+      "username": "C5357063"
+    },
     {
       "ts": "2026-06-23T05:39:07.159Z",
       "action": "Approved Decommission",
