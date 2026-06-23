@@ -716,6 +716,20 @@
         "serial": "d",
         "equip_num": "S",
         "isp_abc": "X"
+      },
+      {
+        "id": 38,
+        "status": "Active",
+        "building": "MNL02",
+        "room_num": "27.314",
+        "room_name": "IT Link Center",
+        "space_type": "",
+        "device_type": "AV Component - Camera",
+        "description": "Test",
+        "model": "Test",
+        "serial": "Test",
+        "equip_num": "Test",
+        "isp_abc": "X"
       }
     ],
     "MNL85": [
@@ -4443,6 +4457,26 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-06-23T06:42:35.539Z",
+      "action": "Add",
+      "detail": "MNL02 · 27.314 · Test",
+      "data": {
+        "id": 38,
+        "status": "Active",
+        "building": "MNL02",
+        "room_num": "27.314",
+        "room_name": "IT Link Center",
+        "space_type": "",
+        "device_type": "AV Component - Camera",
+        "description": "Test",
+        "model": "Test",
+        "serial": "Test",
+        "equip_num": "Test",
+        "isp_abc": "X"
+      },
+      "username": "C5364095"
+    },
     {
       "ts": "2026-06-23T06:35:00.116Z",
       "action": "Add",
