@@ -730,6 +730,20 @@
         "serial": "Test",
         "equip_num": "Test",
         "isp_abc": "X"
+      },
+      {
+        "id": 39,
+        "status": "Active",
+        "building": "MNL02",
+        "room_num": "27.10",
+        "room_name": "Test",
+        "space_type": "",
+        "device_type": "AV Component - HDMI Transmitter",
+        "description": "Test",
+        "model": "Test",
+        "serial": "Test",
+        "equip_num": "Test",
+        "isp_abc": "X"
       }
     ],
     "MNL85": [
@@ -4457,6 +4471,26 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-06-23T06:50:52.820Z",
+      "action": "Add",
+      "detail": "MNL02 · 27.10 · Test",
+      "data": {
+        "id": 39,
+        "status": "Active",
+        "building": "MNL02",
+        "room_num": "27.10",
+        "room_name": "Test",
+        "space_type": "",
+        "device_type": "AV Component - HDMI Transmitter",
+        "description": "Test",
+        "model": "Test",
+        "serial": "Test",
+        "equip_num": "Test",
+        "isp_abc": "X"
+      },
+      "username": "C5364095"
+    },
     {
       "ts": "2026-06-23T06:42:35.539Z",
       "action": "Add",
