@@ -724,7 +724,7 @@
         "room_num": "27.314",
         "room_name": "IT Link Center",
         "space_type": "",
-        "device_type": "AV Component - Camera",
+        "device_type": "AV Component - HDMI Transmitter",
         "description": "Test",
         "model": "Test",
         "serial": "Test",
@@ -738,11 +738,11 @@
         "room_num": "27.10",
         "room_name": "Test",
         "space_type": "",
-        "device_type": "AV Component - HDMI Transmitter",
-        "description": "Test",
-        "model": "Test",
-        "serial": "Test",
-        "equip_num": "Test",
+        "device_type": "a",
+        "description": "a",
+        "model": "a",
+        "serial": "a",
+        "equip_num": "a",
         "isp_abc": "X"
       }
     ],
@@ -4471,6 +4471,26 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-06-24T12:57:59.390Z",
+      "action": "Add",
+      "detail": "MNL02 · 27.10 · a",
+      "data": {
+        "id": 39,
+        "status": "Active",
+        "building": "MNL02",
+        "room_num": "27.10",
+        "room_name": "Test",
+        "space_type": "",
+        "device_type": "a",
+        "description": "a",
+        "model": "a",
+        "serial": "a",
+        "equip_num": "a",
+        "isp_abc": "X"
+      },
+      "username": "C5364095"
+    },
     {
       "ts": "2026-06-23T06:50:52.820Z",
       "action": "Add",
