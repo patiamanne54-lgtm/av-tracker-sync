@@ -733,7 +733,7 @@
       },
       {
         "id": 39,
-        "status": "Active",
+        "status": "Pending Decommission",
         "building": "MNL02",
         "room_num": "27.10",
         "room_name": "Test",
@@ -3166,21 +3166,6 @@
         "serial": "d",
         "equip_num": "d",
         "isp_abc": "d",
-        "decom_approved": true
-      },
-      {
-        "id": 126,
-        "status": "Decommissioned",
-        "building": "MNL85",
-        "room_num": "XVX",
-        "room_name": "XVX",
-        "space_type": "XVX",
-        "device_type": "XVX",
-        "description": "XVX",
-        "model": "XVX",
-        "serial": "XVX",
-        "equip_num": "XVX",
-        "isp_abc": "XVX",
         "decom_approved": true
       }
     ],
