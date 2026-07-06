@@ -5721,6 +5721,21 @@
         "serial": "2442FDY040D8",
         "equip_num": "35428760",
         "isp_abc": "M"
+      },
+      {
+        "id": 315,
+        "status": "Active",
+        "building": "MNL85",
+        "room_num": "9.09",
+        "room_name": "MR MNL85 9.09",
+        "space_type": "",
+        "device_type": "Display Technology - Touch Display",
+        "description": "TV",
+        "model": "LG",
+        "manufacturer": "LG",
+        "serial": "405GLQY03116",
+        "equip_num": "35378909",
+        "isp_abc": "M"
       }
     ],
     "MNL04": [
@@ -6966,6 +6981,27 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-07-06T09:24:41.232Z",
+      "action": "Add",
+      "detail": "MNL85 Â· 9.09 Â· TV",
+      "data": {
+        "id": 315,
+        "status": "Active",
+        "building": "MNL85",
+        "room_num": "9.09",
+        "room_name": "MR MNL85 9.09",
+        "space_type": "",
+        "device_type": "Display Technology - Touch Display",
+        "description": "TV",
+        "model": "LG",
+        "manufacturer": "LG",
+        "serial": "405GLQY03116",
+        "equip_num": "35378909",
+        "isp_abc": "M"
+      },
+      "username": "C5364095"
+    },
     {
       "ts": "2026-07-06T09:23:48.796Z",
       "action": "Add",
