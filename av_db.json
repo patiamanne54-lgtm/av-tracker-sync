@@ -156,7 +156,9 @@
         "sticker": "Can't determine Equ#",
         "mrc_status": "No Change Needed",
         "isp_status": "Can't Find Equ Number",
-        "comment": "No Assigned EQ"
+        "comment": "No Assigned EQ",
+        "decom_approved": true,
+        "decom_approved_at": "2026-07-16T11:48:15.999Z"
       },
       {
         "id": 22,
@@ -7915,6 +7917,13 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-07-16T11:48:15.999Z",
+      "action": "Approved Decommission",
+      "detail": "MNL02 · 27.01 · Shure BLX2 K3E Microphone",
+      "data": null,
+      "username": "Admin"
+    },
     {
       "ts": "2026-07-16T11:48:15.291Z",
       "action": "Approved Decommission",
