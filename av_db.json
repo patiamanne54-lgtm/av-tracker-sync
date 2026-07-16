@@ -135,7 +135,9 @@
         "sticker": "Can't determine Equ#",
         "mrc_status": "No Change Needed",
         "isp_status": "Can't Find Equ Number",
-        "comment": "Old Device/ No Record "
+        "comment": "Old Device/ No Record ",
+        "decom_approved": true,
+        "decom_approved_at": "2026-07-16T11:48:15.291Z"
       },
       {
         "id": 21,
@@ -7913,6 +7915,13 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-07-16T11:48:15.291Z",
+      "action": "Approved Decommission",
+      "detail": "MNL02 · 27.01 · Crestron MPC M5",
+      "data": null,
+      "username": "Admin"
+    },
     {
       "ts": "2026-07-16T11:48:10.600Z",
       "action": "Declined Decommission",
