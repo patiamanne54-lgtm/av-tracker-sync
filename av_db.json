@@ -2004,7 +2004,7 @@
       },
       {
         "id": 336,
-        "status": "Pending Decommission",
+        "status": "Active",
         "building": "MNL85",
         "room_num": "O9.06",
         "room_name": "IT Link Center",
@@ -2019,9 +2019,7 @@
         "sticker": "",
         "mrc_status": "",
         "isp_status": "",
-        "comment": "",
-        "decom_requested_by": "C5364095",
-        "decom_requested_at": "2026-07-28T12:34:12.780Z"
+        "comment": ""
       },
       {
         "id": 338,
@@ -7917,6 +7915,13 @@
     ]
   },
   "activity": [
+    {
+      "ts": "2026-07-28T12:34:39.182Z",
+      "action": "Declined Decommission",
+      "detail": "MNL85 · O9.06 · 43UH5N-E Display",
+      "data": null,
+      "username": "Admin"
+    },
     {
       "ts": "2026-07-28T12:34:12.780Z",
       "action": "Decommission Request",
